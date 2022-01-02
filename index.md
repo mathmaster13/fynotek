@@ -3,6 +3,6 @@ If you want to learn some of the more obscure and powerful bits of Fynotek, you'
 ## So you made it through the course?
 sefo! ak hiksjuon ka fynoteko ew inklyso (English) hur, oni ak hepwaka i mikapa hoksjuon ka fynoteko ni rataesa. You should know enough Fynotek to form sentences with the grammar and vocab from the official course, but you don't need to be perfect! Feel free to look back if you need to—I'll provide links to relevant information in all of these.
 
-Oh, and if it wasn't obvious, I don't use capital letters ever in Fynotek. You can if you want, but this course will not.
+Note that this course's convention is to never use capital letters in Fynotek. You can if you want, but the lessons will not.
 
 Alright! Let's start :)
