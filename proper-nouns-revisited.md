@@ -2,7 +2,7 @@
 
 Proper nouns were touched upon only briefly (as we forgot about them for a while), but in that brief overview it was mentioned that proper nouns can be modifiers. It's a rare use case to use them this way, but here are some situations where you can do so:
 
-- Firstly, if you want to introduce someone or something, you need to use a workaround, since you cannot use their name as a verb. One way to do this is to say that someone exists, in a \<name>-y way. (e.g. *fmutuejuon fuhunson.* "This person exists, in an Unson-ish way."—in other words, "This is Unson.")
+- Firstly, if you want to introduce someone or something, you need to use a workaround, since you cannot use their name as a verb. One way to do this is to say that someone exists, in a \<name>-y way. (e.g. *fmutuejuon fuhounson.* "This person exists, in an Unson-ish way."—in other words, "This is Unson.")
 - Proper nouns as adverbs could also be used for comparison (for example, saying that someone runs similarly to someone else by saying that they run \<name>-ly), but this is very uncommon, so use it carefully.
 
 ### Proper Noun Marking
