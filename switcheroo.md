@@ -4,10 +4,12 @@
 
 ### The Grand Switcheroo
 Recall that you can place context at the beginning of a sentence between *ak* and *ka*.
-> Example: *ak jeajjuon ka ywasefo* - "Today I am happy."
+> Example: *ak jeajjuon ka ywasefo*\
+> "Today I am happy."
 
 If you want to place context at the end of a sentence, switch *ak* and *ka* around!
-> Example: *ywasefo ka jeajjuon ak* - "I am happy today."
+> Example: *ywasefo ka jeajjuon ak*\
+> "I am happy today."
 
 The formula for context at the end of a sentence is "\<sentence> ka \<context> ak". Pretty simple!
 
@@ -36,7 +38,8 @@ If you want a formula for *ik/ki*, it's "ik \<verb phrase> ki \<thing you want t
 
 ### Chaining with *ki/ik*
 *ki/ik* chaining is similar to *ak/ka* chaining, but all clauses apply to the original noun instead of to each other. Skip every *ik* after the first if using *ik/ki*, and skip every *ki* after the first if using *ki/ik*.
-> Example: *fmutue ki hiro ñaka ik ampio fotaenejiy ik fuhoñata.* - "The person who spoke to you and went to their house is named Ñata."
+> Example: *fmutue ki hiro ñaka ik ampio fotaenejiy ik fuhoñata.*\
+> "The person who spoke to you and went to their house is named Ñata."
 
 Notice that both "spoke to you" (*hiro ñaka*) and "went to their house" (*ampio fataenejiy*) are applied to *fmutue*.
 
