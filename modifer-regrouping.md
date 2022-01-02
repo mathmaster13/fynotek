@@ -8,9 +8,9 @@ We've talked a lot about modifiers, even learning how to use proper nouns to mod
 
 Note that these methods are arranged in order of how common they are.
 
-Firstly, you can attach a modifier to a detached modifier in the same way you can to a noun. This allows us to, for example, say "unso sefoula" for "very good things". Note that "sefoula" cannot be attached to "unso", so if we add another modifier that can attach, it must attach (for example, "very good robotic things" must be "unsoilyn sefoula" as opposed to "unso sefoula ilyn").
+- Firstly, you can attach a modifier to a detached modifier in the same way you can to a noun. This allows us to, for example, say "unso sefoula" for "very good things". Note that "sefoula" cannot be attached to "unso", so if we add another modifier that can attach, it must attach (for example, "very good robotic things" must be "unsoilyn sefoula" as opposed to "unso sefoula ilyn").
 Leaving "ilyn" detached would indicate that "sefoula" modifies "ilyn" (since "ilyn" is not attached, it cannot modify "unso"), making a meaning that is similar here, but won't always be.
 
-Secondly, context often can determine what modifies what, similar to how context can determine what modifier order someone is using (remember, detached modifiers can go before or after the things they modify). If you need to explicitly give context, use *ak* and *ka*. TODO: perhaps add an example here where context is the
+- Secondly, context often can determine what modifies what, similar to how context can determine what modifier order someone is using (remember, detached modifiers can go before or after the things they modify). If you need to explicitly give context, use *ak* and *ka*. TODO: perhaps add an example here where context is the
 
-If you really need to stack modifiers (you usually can just use context, but if you must), then you can use ki and ik. For example, to talk about someone who doesn't know about computers, you can say "fmutue ki ratasñyo ilon ik" instead of "fmutue ratasñyilyn".
+- If you really need to stack modifiers (you usually can just use context, but if you must), then you can use ki and ik. For example, to talk about someone who doesn't know about computers, you can say "fmutue ki ratasñyo ilon ik" instead of "fmutue ratasñyilyn".
