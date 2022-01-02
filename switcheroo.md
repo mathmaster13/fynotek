@@ -26,8 +26,8 @@ This is the same sentence as the previous example, but with the words in a diffe
 
 ### What about *ik* and *ki*?
 Just like with *ak* and *ka*, you can switch the order of *ik* and *ki* to change what the phrase inside is applied to:
-> Example:
-> *fmutue ki hiro ñaka ik ampuo.
+> Example:\
+> *fmutue ki hiro ñaka ik ampuo.\
 > ik hiro ñaka ki fmutue ampuo.*
 
 Both of these mean "The person who spoke to you is leaving". The only difference is that when you use *ki/ik*, the phrase inside is applied to what is before it, and when you use *ik/ki*, the phrase inside is applied to what is after it.
