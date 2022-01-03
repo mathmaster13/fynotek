@@ -11,7 +11,7 @@ If you want to place context at the end of a sentence, switch *ak* and *ka* arou
 > Example: *ywasefo ka jeajjuon ak*\
 > "I am happy today."
 
-The formula for context at the end of a sentence is "\<sentence> ka \<context> ak". Pretty simple!
+The formula for context at the end of a sentence is "[sentence] ka [context] ak". Pretty simple!
 
 ### Chaining with *ak/ka*
 You can chain *ak/ka* clauses. When you do so, each *ak* after the first is skipped.
@@ -34,7 +34,7 @@ Just like with *ak* and *ka*, you can switch the order of *ik* and *ki* to chang
 
 Both of these mean "The person who spoke to you is leaving". The only difference is that when you use *ki/ik*, the phrase inside is applied to what is before it, and when you use *ik/ki*, the phrase inside is applied to what is after it.
 
-If you want a formula for *ik/ki*, it's "ik \<verb phrase> ki \<thing you want to modify>". Not too hard!
+If you want a formula for *ik/ki*, it's "ik [verb phrase] ki [thing you want to modify]". Not too hard!
 
 ### Chaining with *ki/ik*
 *ki/ik* chaining is similar to *ak/ka* chaining, but all clauses apply to the original noun instead of to each other. Skip every *ik* after the first if using *ik/ki*, and skip every *ki* after the first if using *ki/ik*.
