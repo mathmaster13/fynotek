@@ -11,11 +11,4 @@ It removes the horizontal line and diacritic forms of glyphs, so spaces between 
   
 [Insert a chart, and some examples]
 
-### the unnamed abugida
-This is a system made by Fynotek's creator, but isn't publically documented outside of here. It has not been given a name.
-
-Consonants are marked with symbols, and vowels are marked with a diacritic on the consonant before it. While diphthongs are written as normal (the first vowel is applied to the consonant before it, and the second vowel is applied to a no-consonant marker), long vowels have special diacritics. Like *ojnym*, this system has a line running through each word, and tone-marking punctuation, but it does now have any special symbols for grammatical features. It is written from top to bottom, with pages going from left to right.
-
-[chart + examples]
-
-Now you can write your Fynotek in style :)
+Now you can write your Fynotek like a child :)
