@@ -1,6 +1,6 @@
 *This is a followup to [Lesson 11](INSERT LINK) of the official Fynotek course. It is recommended that you have completed the whole course before reading this.*
 
-There are more writing systems for Fynotek than just *ojnym*. Let's talk about them!
+There is another writing system for Fynotek that wasn't shown in the lesson about *ojnym*. Let's talk about it!
 
 ### *ojnyla*
 TODO: *ojnyla* and *ojnym* are changing, since *ojnyla*'s purpose has had a decently large shift. Update this document as changes happen.
