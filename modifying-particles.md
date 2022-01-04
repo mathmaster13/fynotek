@@ -2,7 +2,7 @@
 
 I know I've said that we were done with particles three times now. I know that I have lied all three times. But I promise that today will be the last particle-related lesson we have. It's about *sta*, *ni*, and how to modify them.
 
-### Modifying Particles?
+## Modifying Particles?
 It may seem weird to modify a particle—after all, they don't have any content meaning—but you've already seen a modifier on a particle! If you remember from lesson 9, *stañy* is how you say "no" to a question, and is a combination of *sta* and *ñy*. There are a few other words that can be used this way, as well!
 
 ### Modifying *sta*
