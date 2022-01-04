@@ -4,7 +4,7 @@
 
 We've talked a lot about modifiers, even learning how to use proper nouns to modify things. What we haven't talked much about is how to *group* modifiers together. An example of grouping in English is "very good things"—the word *very* modifies the word *good*, and the two words together—"very good"—modify the word "things" as a single unit. Trying to translate this into Fynotek would get us "unsosefo ula", which probably would be interpreted to mean "big good things". So, what do we do?
 
-### Regrouping Modifiers
+## Regrouping Modifiers
 
 Note that these methods are arranged in order of how common they are.
 
