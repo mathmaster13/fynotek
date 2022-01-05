@@ -2,7 +2,7 @@
 
 You probably know about numbers, but probably not one of the biggest contexts in which numbers are useful: keeping track of time. Let's change that now!
 
-***Note:** All numbers on this page are in seximal (base 6) unless otherwise specified.*
+***Note:** All numbers on this page are in seximal (base 6) if in Fynotek, and decimal (nase 10) if in English.*
 
 ## Time
 Time is extremely easy: just say "[hour] kynsi [minute]"! Here are some details:
@@ -19,7 +19,7 @@ Abbreviating time is done with "[hour]K[minute]" (or "[hour]k[minute]"). When ab
 
 Examples:
 > *fuho 21K0.*\
-> It is 21:00 (13:00 or 1:00 PM in decimal).
+> It is 13:00 (or 1:00 PM).
 
 > *fuho 3k2.*\
 > It is 3:02.
@@ -124,7 +124,7 @@ If you do not specify the era in a date abbreviation (which specifies the calend
 
 For example, "33.2.2.5 tfaa" is read as "uspo usrea fojeaj foñytuh purtfaa", with the extra "tfaa" in the abbreviation not being pronounced.
 
-Only use *ejen* and *tfaa* in an abbreviation if you're not already specifying the calendar system with the era! And remember, often times, things can be made clear with context—you rarely will need to talk about the year 13203 in the Fynotek calendar, for example.
+Only use *ejen* and *tfaa* in an abbreviation if you're not already specifying the calendar system with the era! And remember that things can often be made clear with context—you rarely will need to talk about the year 13203 in the Fynotek calendar, for example.
 
 ## Durations
 
