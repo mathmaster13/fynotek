@@ -1,4 +1,4 @@
-*This is a followup to [lesson 6.5](https://docs.google.com/document/d/19m6Y4VRxdaOJj9K_L4p33L36ilaNcg3eyKNfgyxHqyk/edit?usp=sharing) of the official course.*
+*This is a followup to [lesson 6.5](https://docs.google.com/document/d/19m6Y4VRxdaOJj9K_L4p33L36ilaNcg3eyKNfgyxHqyk/edit?usp=sharing) of the official Fynotek course.*
 
 Proper nouns were touched upon only briefly (as we forgot about them for a while), but in that brief overview it was mentioned that proper nouns can be modifiers. It's a rare use case to use them this way, but here are some situations where you can do so:
 
