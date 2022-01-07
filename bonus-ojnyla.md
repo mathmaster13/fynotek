@@ -3,7 +3,6 @@
 There is another writing system for Fynotek that wasn't shown in the lesson about *ojnym*. Let's talk about it!
 
 ## *ojnyla*
-TODO: *ojnyla* and *ojnym* are changing, since *ojnyla*'s purpose has had a decently large shift. Update this document as changes happen.
 
 This name is a combination of the words *ojnym* and *yla*, and as thaat suggests, *ojnyla* is a simplified version of *ojnym*, intended to be used in more immature contexts (such as with small children).
   
