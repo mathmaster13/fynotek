@@ -2,7 +2,7 @@
 
 You probably know about numbers, but probably not one of the biggest contexts in which numbers are useful: keeping track of time. Let's change that now!
 
-***Note:** All numbers on this page are in seximal (base 6) if in Fynotek, and decimal (nase 10) if in English.*
+***Note:** All numbers on this page are in seximal (base 6) if in Fynotek, and decimal (base 10) if in English.*
 
 ## Time
 Time is extremely easy: just say "[hour] kynsi [minute]"! Here are some details:
@@ -56,11 +56,9 @@ Fynotek's calendar aligns to the cycles of the moon, and to keep it in sync, eve
 > year 4 month 2: **30 days**\
 > year 4 month 3: 30 days\
 > year 4 month 4: 29 days\
-> year 4 month 5: 30 days
-<br>
-Each month has four weeks (note that even though Fynotek has the concept of a week, it has no word for it).
+> year 4 month 5: 30 days  
 
-If a month has 29 days, the weeks go as follows:
+Each month has four weeks. If a month has 29 days, the weeks go as follows:
 > week 1: 7 days\
 > week 2: 7 days\
 > week 3: 7 days\
