@@ -14,6 +14,8 @@ To say the time, you can use "fuho", like this:
 > *fuho us kynsi fo.*\
 > It is 3:02.
 
+You can, of course, use other words, such as forms of *mawak*, instead of "fuho".
+
 ### Abbreviation
 Abbreviating time is done with "[hour]K[minute]" (or "[hour]k[minute]"). When abbreviating, keep the 0 if there are no minutes.
 
@@ -87,11 +89,11 @@ Here is how you express each part of the date:
 - To express the year of the era, attach the word *tfaa* to the number of the year (e.g. the 2nd year is "fotfaa").
 - To express the era, use the words *kynsi fynotekñy* or *kynsifynotek*, as described earlier.
 
-For example, January 1 2022 is the 8th day of the 3rd month (and the 1st day of its week) of the 3rd year in *kynsifynotek*, so it is written as *aypo forea ayjeaj usñytuh ustfaa kynsifynotek*.
+Use the same verb for expressing dates as you would for expressing times. For example, January 1 2022 is the 8th day of the 3rd month (and the 1st day of its week) of the 3rd year in *kynsifynotek*, so to say that today is January 1 2022, you could say *aypo forea ayjeaj usñytuh ustfaa kynsifynotek fuho*.
 
 If necessary, you can use *tfaa* as a detached modifier after a partial date to indicate that you're using the Fynotek calendar system and not the Gregorian system. However, ***only do this when necessary***—if your date contains a month, year, or era, the words in your date already specify the calendar system. It can also be clear from context that you are using the Fynotek system, and in that case, do not do this.
 
-*For a set of dates in the Fynotek calendar along with their corresponding Gregorian dates, see [this table](INSERT LINK).*
+*For a set of dates in the Fynotek calendar along with their corresponding Gregorian dates, see [this table](https://docs.google.com/spreadsheets/d/1nCIL_sHuzpl9OkVjqMqjipdfDYlRCK-NyVYi6Z_onJ4/edit).*
 
 ### Gregorian Calendar
 When we interact with the rest of the world, we can use the Gregorian calendar: 12 months in a year, 7 days in a week, you know the drill. Here is the vocabulary used to express Gregorian dates:
@@ -111,7 +113,7 @@ Some other things to keep in mind:
 - In Fynotek, Monday is the first day of a Gregorian week, and Sunday is the seventh.
 - Like in the native system, any part of a date can be dropped if context is sufficient to specify the date, and when used formally, everything except the era is required.
 
-As an example, March 15 2020 is written in full as *fopo usrea aypo ayjeaj usñytejen aypoña uspopura fopura nosejen kynsijuon*.
+As an example, "Today is March 15 2020" can be written in full as *fopo usrea aypo ayjeaj usñytejen aypoña uspopura fopura nosejen kynsijuon fuho.*
 
 ### Abbreviation
 In either calendar system, abbreviations are made by writing the day-of-month, day-of-week, month, and year as numbers (in seximal, of course), in that order, and separated by dots. ***None of these can be omitted!*** For example, the abbreviation for March 15 2020 is *23.7.3.13203*.
@@ -126,4 +128,18 @@ Only use *ejen* and *tfaa* in an abbreviation if you're not already specifying t
 
 ## Durations
 
+Now that we know how to express times, let's talk about how to make use of them by saying when or for how long something happens!
 
+Firstly, let's go over duration-related vocab:
+> mjulis: second\
+> ukhin: minute\
+> ewje: hour\
+> jeaj: day\
+> (word not created yet): week\
+> ñytuh: month (native calendar)\
+> ñytejen: month (Gregorian calendar)\
+> tfaa: year (native calendar)\
+> ejen: year (Gregorian calendar)\
+> kynsi: time
+
+To express how long something happens, simply use 
