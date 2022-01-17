@@ -6,15 +6,20 @@ You probably know about numbers, but probably not one of the biggest contexts in
 
 ## Time
 Time is extremely easy: just say "[hour] kynsi [minute]"! Here are some details:
-- Days are defined the same way that they are in English: 40 hours in a day, with 140 minutes in an hour (remember that these numbers are in seximal!).
+- Days are defined the same way that they are in English: 24 hours in a day, with 60 minutes in an hour.
 - If there are zero minutes, you can omit the minutes entirely (i.e. instead of saying "fo kynsi fui" for "2:00", you can say "fo kynsi").
-- Fynotek uses a 24-hour clock, so instead of saying "1:00 PM", you would say "21:00", or "fopo ay kynsi". Midnight is 0:00 (fui kynsi).
+- Fynotek uses a 24-hour clock, so instead of saying "1:00 PM", you would say "13:00" (which is 21:00 in seximal), or "fopo ay kynsi". Midnight is 0:00 (fui kynsi).
 
 To say the time, you can use "fuho", like this:
 > *fuho us kynsi fo.*\
 > It is 3:02.
 
 You can, of course, use other words, such as forms of *mawak*, instead of "fuho".
+
+To say when you will do something, you can use *in* or *ak*/*ka*:
+> *pii in fopo ay kynsi.*\
+> *ak fopo ay kynsi ka pii.*\
+> I ate at 13:00/1:00 PM (21:00 in seximal).
 
 ### Abbreviation
 Abbreviating time is done with "[hour]K[minute]" (or "[hour]k[minute]"). When abbreviating, keep the 0 if there are no minutes.
@@ -89,7 +94,7 @@ Here is how you express each part of the date:
 - To express the year of the era, attach the word *tfaa* to the number of the year (e.g. the 2nd year is "fotfaa").
 - To express the era, use the words *kynsi fynotekñy* or *kynsifynotek*, as described earlier.
 
-Use the same verb for expressing dates as you would for expressing times. For example, January 1 2022 is the 8th day of the 3rd month (and the 1st day of its week) of the 3rd year in *kynsifynotek*, so to say that today is January 1 2022, you could say *aypo forea ayjeaj usñytuh ustfaa kynsifynotek fuho*.
+For example, January 1 2022 is the 8th day of the 3rd month (and the 1st day of its week) of the 3rd year in *kynsifynotek*, so it is *aypo forea ayjeaj usñytuh ustfaa kynsifynotek*.
 
 If necessary, you can use *tfaa* as a detached modifier after a partial date to indicate that you're using the Fynotek calendar system and not the Gregorian system. However, ***only do this when necessary***—if your date contains a month, year, or era, the words in your date already specify the calendar system. It can also be clear from context that you are using the Fynotek system, and in that case, do not do this.
 
@@ -113,7 +118,15 @@ Some other things to keep in mind:
 - In Fynotek, Monday is the first day of a Gregorian week, and Sunday is the seventh.
 - Like in the native system, any part of a date can be dropped if context is sufficient to specify the date, and when used formally, everything except the era is required.
 
-As an example, "Today is March 15 2020" can be written in full as *fopo usrea aypo ayjeaj usñytejen aypoña uspopura fopura nosejen kynsijuon fuho.*
+As an example, "March 15 2020" can be written in full as *fopo usrea aypo ayjeaj usñytejen aypoña uspopura fopura nosejen kynsijuon*.
+
+### Expressions with Dates
+Use the same forms to express dates as you would times. Here are some examples:
+> *fopo usrea aypo ayjeaj usñytejen aypoña uspopura fopura nosejen kynsijuon fuho.*\
+> It is March 15 2020.
+
+> *mawik in usñytejen.*\
+> I arrived in March.
 
 ### Abbreviation
 In either calendar system, abbreviations are made by writing the day-of-month, day-of-week, month, and year as numbers (in seximal, of course), in that order, and separated by dots. ***None of these can be omitted!*** For example, the abbreviation for March 15 2020 is *23.7.3.13203*.
@@ -135,11 +148,29 @@ Firstly, let's go over duration-related vocab:
 > ukhin: minute\
 > ewje: hour\
 > jeaj: day\
-> (word not created yet): week\
+> atoren: week\
 > ñytuh: month (native calendar)\
 > ñytejen: month (Gregorian calendar)\
 > tfaa: year (native calendar)\
 > ejen: year (Gregorian calendar)\
 > kynsi: time
 
-To express how long something happens, simply use 
+To express how long something happens for, simply use *in* (or *ak*/*ka*) and the duration of the activity. Remember to add *ak* if necessary! For example:
+> *himti in ewjeakaypo fo.*\
+> I worked for eight hours.
+
+> *nawpio ka kynsiula ak.*\
+> He slept for a long time.
+
+To express the duration until something happens, we will use ordinals. For example, instead of saying "this will happen in two weeks", you say "this will happen in the second new week", or "juon mawoko in atorenfoun forea". Here are some more examples:
+> *ak jeajfoun usrea mawoko ka ampo.*\
+> When the third new day arrives, I will go.\
+> I will go in 3 days.
+
+To express how long ago something was, just use *mjuw* instead of *foun*:
+> *hiro ka ewjemjuw ayrea ak.*\
+> She spoke during the first old hour.
+> She spoke an hour ago.
+
+
+Wow! That was a lot to take in. On the plus side, though, your knowledge of dates and times is fully comprehensive! Congratulations. All the vocab was in the lesson today, so no more vocab here!
