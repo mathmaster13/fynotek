@@ -1,3 +1,7 @@
+---
+title: Modifier Regrouping
+---
+
 **note:** might drop this lesson. don't know if it's useful.
 
 *This is a followup to [lesson 5](https://docs.google.com/document/d/1bmR-lVrV3tHTU9PnKko63L_ViIEXxinO3-Q_uM5qX-c/edit?usp=sharing) of the official Fynotek course. Knowledge from [lesson 8](https://docs.google.com/document/d/1cIdLAAOxNJKSOuzGKp3PlzvTDv7MhHs9H-Sb1xgxo5s/edit?usp=sharing) (specifically, knowledge of ki and ik) is also recommended.*

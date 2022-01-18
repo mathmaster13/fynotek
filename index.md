@@ -3,7 +3,7 @@ title: Fynotek
 ---
 
 ## Welcome!
-If you came here, you're probably either looking for one of my projects for Fynotek, or for info about Fynotek in general. For general things, please see [this spreadsheet](https://docs.google.com/spreadsheets/d/1xhD20vikLE6JgUWnj4EwJ9ycEKHQzH_Qi7ZsBBT4j6k/edit). For my projects, see below:
+If you came here, you're probably either looking for one of my projects for Fynotek, or for info about Fynotek in general. For general things, please see Fynotek's [official website](https://aspenlangs.neocities.org/fyn.html). For my projects, see below:
 
 
 ### [fynotek-java](https://github.com/mathmaster13/fynotek-java) (Java library)
