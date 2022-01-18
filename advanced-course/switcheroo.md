@@ -2,7 +2,7 @@
 title: Particle Pairs, Part 2
 ---
 
-*This is a followup to [lesson 8](https://docs.google.com/document/d/1cIdLAAOxNJKSOuzGKp3PlzvTDv7MhHs9H-Sb1xgxo5s/edit?usp=sharing) of the official Fynotek course.*
+*This is a followup to [lesson 8](https://aspenlangs.neocities.org/fynles8.html) of the official Fynotek course.*
 
 *ak*/*ka* and *ki*/*ik* aren't done yet. It's time we learn about the grand switcheroo.
 

@@ -2,7 +2,7 @@
 title: Dates and Times
 ---
 
-*This is a followup to [lesson 10](INSERT LINK) of the official Fynotek course.*
+*This is a followup to [lesson 10](https://aspenlangs.neocities.org/fynles10.html) of the official Fynotek course.*
 
 You probably know about numbers, but probably not one of the biggest contexts in which numbers are useful: keeping track of time. Let's change that now!
 

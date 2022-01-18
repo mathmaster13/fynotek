@@ -2,7 +2,7 @@
 title: Modifying Particles
 ---
 
-*This is a followup to [lesson 9](INSERT LINK) of the official Fynotek course.*
+*This is a followup to [lesson 9](https://aspenlangs.neocities.org/fynles9.html) of the official Fynotek course.*
 
 I know I've said that we were done with particles three times now. I know that I have lied all three times. But I promise that today will be the last particle-related lesson we have. It's about *sta*, *ni*, and how to modify them.
 
