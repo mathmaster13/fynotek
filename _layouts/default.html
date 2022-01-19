@@ -33,8 +33,8 @@
           {% capture right_default %}
           <a href="https://aspenlangs.neocities.org/fyn.html">Fynotek</a> made by mochaspen
           {% endcapture %}
-          <span class="credits left">{{ page.prev | default: left_default }}</span>
-          <span class="credits right">{{ page.next | default: right_default }}</span>
+          <span class="credits left">{{ page.left | default: left_default }}</span>
+          <span class="credits right">{{ page.right | default: right_default }}</span>
         </div>
 
         {{ content }}

@@ -1,7 +1,7 @@
 ---
 title: Lesson Index
-prev: <a href="index.html">back to homepage</a>
-next: <a href="proper-nouns-revisited.html">begin lessons</a>
+left: <a href="index.html">back to course intro</a>
+right: <a href="proper-nouns-revisited.html">begin lessons</a>
 ---
 
 ## Unit 1: Modifiers and Word Order
