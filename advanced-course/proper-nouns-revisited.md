@@ -18,6 +18,4 @@ Either way, the examples so far have only shown proper nouns as *attached* modif
   - In "raysoa", "a" is the last vowel, so it becomes "raysoanaa" under reduplication marking (remember to infix "n" as needed to avoid VVV sequences!).
   - In "wasoo", "o" is the last vowel, so it becomes "wasoonoo" under reduplication marking. Note that the "oo" suffix is still long, despite us reduplicating a long vowel. When using reduplication marking on proper nouns, vowel length does not matter.
   
-Now that your proper noun knowledge is finally complete, let's talk more about [modifiers](modifier-regrouping.md).
-
-TODO: Add homework
+Pretty simple!
