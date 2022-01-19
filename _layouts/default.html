@@ -27,8 +27,14 @@
           <h1>{{ page.title | default: site.github.repository_name }}</h1>
           <!-- <p>{{ page.description | default: site.github.project_tagline }}</p> -->
           <hr>
-          <span class="credits left">{{ page.prev | default: Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> }}</span>
-          <span class="credits right">{{ page.next | default: <a href="https://aspenlangs.neocities.org/fyn.html">Fynotek</a> made by mochaspen }}</span>
+          {% capture left_default %}
+          Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>
+          {% endcapture %}
+          {% capture right_default %}
+          <a href="https://aspenlangs.neocities.org/fyn.html">Fynotek</a> made by mochaspen
+          {% endcapture %}
+          <span class="credits left">{{ page.prev | default: left_default }}</span>
+          <span class="credits right">{{ page.next | default: right_default }}</span>
         </div>
 
         {{ content }}
