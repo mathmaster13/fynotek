@@ -152,7 +152,8 @@ Firstly, let's go over duration-related vocab:
 > ukhin: minute\
 > ewje: hour\
 > jeaj: day\
-> atoren: week\
+> atoren: week (native calendar)\
+> atorejen: week (Gregorian calendar)\
 > ñytuh: month (native calendar)\
 > ñytejen: month (Gregorian calendar)\
 > tfaa: year (native calendar)\
@@ -177,4 +178,4 @@ To express how long ago something was, just use *mjuw* instead of *foun*:
 > She spoke an hour ago.
 
 
-Wow! That was a lot to take in. On the plus side, though, your knowledge of dates and times is fully comprehensive! Congratulations. All the vocab was in the lesson today, so no more vocab here!
+Wow! That was a lot to take in. On the plus side, though, your knowledge of dates and times is fully comprehensive! Congratulations. All the vocab was in the lesson today, so no more vocab here! 
