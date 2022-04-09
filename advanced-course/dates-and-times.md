@@ -77,7 +77,7 @@ Each month has four weeks. If a month has 29 days, the weeks go as follows:
 
 If a month has 30 days, they go like this:
 > week 1: 7 days\
-> week 2: 7 days\
+> week 2: 8 days\
 > week 3: 7 days\
 > week 4: 8 days
 
