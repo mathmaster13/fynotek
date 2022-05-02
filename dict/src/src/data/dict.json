@@ -30,6 +30,10 @@
       [
         "modifier",
         "extra, additional"
+      ],
+      [
+        "math",
+        "plus (+)"
       ]
     ]
   },
@@ -822,6 +826,10 @@
       [
         "modifier",
         "same"
+      ],
+      [
+        "math",
+        "equals, is equal to (=)"
       ]
     ]
   },
@@ -1601,6 +1609,10 @@
       [
         "modifier",
         "some, few"
+      ],
+      [
+        "math",
+        "divided by (÷)"
       ]
     ]
   },
@@ -2110,6 +2122,10 @@
       [
         "modifier",
         "clustered"
+      ],
+      [
+        "math",
+        "times, multiplied by (×)"
       ]
     ]
   },
@@ -2167,6 +2183,19 @@
       [
         "modifier",
         "many, most, more"
+      ],
+      [
+        "math",
+        "greater than (>)"
+      ]
+    ]
+  },
+  {
+    "word": "ñaasiñy",
+    "meanings": [
+      [
+        "math",
+        "greater than or equal to, at least (≤)"
       ]
     ]
   },
@@ -2532,6 +2561,19 @@
       [
         "modifier",
         "few, less, least"
+      ],
+      [
+        "math",
+        "less than (<)"
+      ]
+    ]
+  },
+  {
+    "word": "perliiñy",
+    "meanings": [
+      [
+        "math",
+        "less than or equal to, at most (≥)"
       ]
     ]
   },
@@ -2680,6 +2722,10 @@
       [
         "modifier",
         "gone, absent, missing"
+      ],
+      [
+        "math",
+        "minus (-)"
       ]
     ]
   },
@@ -2957,6 +3003,10 @@
       [
         "modifier",
         "different, other"
+      ],
+      [
+        "math",
+        "does not equal, is not equal to, is unequal to (≠)"
       ]
     ]
   },
@@ -3689,6 +3739,60 @@
     ]
   },
   {
+    "word": "-akiy",
+    "meanings": [
+      [
+        "suffix",
+        "your (singular)"
+      ]
+    ]
+  },
+  {
+    "word": "-ami",
+    "meanings": [
+      [
+        "suffix",
+        "our (excluding the listener)"
+      ]
+    ]
+  },
+  {
+    "word": "-asi",
+    "meanings": [
+      [
+        "suffix",
+        "whose, belonging to what (possesive form of \"saraso\")"
+      ]
+    ]
+  },
+  {
+    "word": "-ejiy",
+    "meanings": [
+      [
+        "suffix",
+        "his, her, their (third person singular animate possesive suffix)"
+      ]
+    ]
+  },
+  {
+    "word": "-ejimi",
+    "meanings": [
+      [
+        "suffix",
+        "their (third person plural animate possesive suffix)"
+      ]
+    ]
+  },
+  {
+    "word": "-imi",
+    "meanings": [
+      [
+        "suffix",
+        "your (plural)"
+      ]
+    ]
+  },
+  {
     "word": "-ñy",
     "meanings": [
       [
@@ -3703,6 +3807,78 @@
       [
         "suffix",
         "[marks a verb as third person]"
+      ]
+    ]
+  },
+  {
+    "word": "-oli",
+    "meanings": [
+      [
+        "suffix",
+        "belonging to himself/herself/itself/themself/themselves (posessive form of \"folo\")"
+      ]
+    ]
+  },
+  {
+    "word": "-ui",
+    "meanings": [
+      [
+        "suffix",
+        "one's, your (impersonal posessive pronoun)"
+      ]
+    ]
+  },
+  {
+    "word": "-uin",
+    "meanings": [
+      [
+        "suffix",
+        "belonging to this (posessive form of \"juon\")"
+      ]
+    ]
+  },
+  {
+    "word": "-umii",
+    "meanings": [
+      [
+        "suffix",
+        "our (including the listener)"
+      ]
+    ]
+  },
+  {
+    "word": "-umiy",
+    "meanings": [
+      [
+        "suffix",
+        "my"
+      ]
+    ]
+  },
+  {
+    "word": "-unin",
+    "meanings": [
+      [
+        "suffix",
+        "belonging to that (posessive form of \"junon\")"
+      ]
+    ]
+  },
+  {
+    "word": "-yrami",
+    "meanings": [
+      [
+        "suffix",
+        "their (third person plural inanimate possesive suffix)"
+      ]
+    ]
+  },
+  {
+    "word": "-yri",
+    "meanings": [
+      [
+        "suffix",
+        "its (third person singular inanimate possesive suffix)"
       ]
     ]
   }
