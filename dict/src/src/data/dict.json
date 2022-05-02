@@ -314,6 +314,15 @@
     ]
   },
   {
+    "word": "ay",
+    "meanings": [
+      [
+        "number",
+        "one (1)"
+      ]
+    ]
+  },
+  {
     "word": "easlo",
     "meanings": [
       [
@@ -657,11 +666,20 @@
     ]
   },
   {
+    "word": "fo",
+    "meanings": [
+      [
+        "number",
+        "two (2)"
+      ]
+    ]
+  },
+  {
     "word": "folo",
     "meanings": [
       [
         "pronoun",
-        "himself, herself, themself, themselves (reflexive/reciprocal prnooun)"
+        "myself, ourselves, yourself, yourselves, himself, herself, itself, themself, themselves (reflexive/reciprocal prnooun)"
       ]
     ]
   },
@@ -787,6 +805,15 @@
       [
         "interjection",
         "agreed! true! (general affirmative; not used for answering questions)"
+      ]
+    ]
+  },
+  {
+    "word": "fui",
+    "meanings": [
+      [
+        "number",
+        "zero (0)"
       ]
     ]
   },
@@ -2143,6 +2170,15 @@
     ]
   },
   {
+    "word": "nos",
+    "meanings": [
+      [
+        "number",
+        "four (4)"
+      ]
+    ]
+  },
+  {
     "word": "nowto",
     "meanings": [
       [
@@ -2195,7 +2231,7 @@
     "meanings": [
       [
         "math",
-        "greater than or equal to, at least (≤)"
+        "less than or equal to, at most (≤)"
       ]
     ]
   },
@@ -2305,6 +2341,15 @@
       [
         "verb",
         "to grow (intransitive)"
+      ]
+    ]
+  },
+  {
+    "word": "ñy",
+    "meanings": [
+      [
+        "math",
+        "[negates the number after it]"
       ]
     ]
   },
@@ -2573,7 +2618,7 @@
     "meanings": [
       [
         "math",
-        "less than or equal to, at most (≥)"
+        "greater than or equal to, at least (≥)"
       ]
     ]
   },
@@ -2644,6 +2689,15 @@
       [
         "noun",
         "star"
+      ]
+    ]
+  },
+  {
+    "word": "pur",
+    "meanings": [
+      [
+        "number",
+        "five (5)"
       ]
     ]
   },
@@ -3420,6 +3474,15 @@
     ]
   },
   {
+    "word": "us",
+    "meanings": [
+      [
+        "number",
+        "three (3)"
+      ]
+    ]
+  },
+  {
     "word": "uwsafur",
     "meanings": [
       [
@@ -3525,6 +3588,10 @@
       [
         "modifier",
         "small, barely"
+      ],
+      [
+        "math",
+        "[makes the number before it a denominator]"
       ]
     ]
   },
@@ -3793,6 +3860,15 @@
     ]
   },
   {
+    "word": "-manta",
+    "meanings": [
+      [
+        "suffix",
+        "[multiplies a number by 6<sup>16</sup>]"
+      ]
+    ]
+  },
+  {
     "word": "-ñy",
     "meanings": [
       [
@@ -3815,7 +3891,61 @@
     "meanings": [
       [
         "suffix",
-        "belonging to himself/herself/itself/themself/themselves (posessive form of \"folo\")"
+        "belonging to myself, belonging to ourselves, belonging to yourself/yourselves, belonging to himself, belonging to herself, belonging to itself, belonging to themself/themselves (posessive form of \"folo\")"
+      ]
+    ]
+  },
+  {
+    "word": "-po",
+    "meanings": [
+      [
+        "suffix",
+        "[multiplies a number by 6]"
+      ]
+    ]
+  },
+  {
+    "word": "-poña",
+    "meanings": [
+      [
+        "suffix",
+        "[multiplies a number by 6<sup>4</sup>]"
+      ]
+    ]
+  },
+  {
+    "word": "-pura",
+    "meanings": [
+      [
+        "suffix",
+        "[multiplies a number by 6<sup>2</sup>]"
+      ]
+    ]
+  },
+  {
+    "word": "-rea",
+    "meanings": [
+      [
+        "suffix",
+        "-th (marks a number as ordinal)"
+      ]
+    ]
+  },
+  {
+    "word": "-sola",
+    "meanings": [
+      [
+        "suffix",
+        "[multiplies a number by 6<sup>8</sup>]"
+      ]
+    ]
+  },
+  {
+    "word": "-tauwa",
+    "meanings": [
+      [
+        "suffix",
+        "[multiplies a number by 6<sup>32</sup>]"
       ]
     ]
   },
