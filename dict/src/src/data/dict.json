@@ -1,0 +1,3637 @@
+[
+  {
+    "word": "aakem",
+    "meanings": [
+      [
+        "noun",
+        "hole, indent"
+      ],
+      [
+        "verb",
+        "to create a hole, to indent"
+      ],
+      [
+        "modifier",
+        "indented, concave"
+      ]
+    ]
+  },
+  {
+    "word": "ah",
+    "meanings": [
+      [
+        "noun",
+        "accessory, extra thing"
+      ],
+      [
+        "verb",
+        "to add"
+      ],
+      [
+        "modifier",
+        "extra, additional"
+      ]
+    ]
+  },
+  {
+    "word": "ahur",
+    "meanings": [
+      [
+        "noun",
+        "argument"
+      ],
+      [
+        "verb",
+        "to argue"
+      ],
+      [
+        "modifier",
+        "argumentative"
+      ]
+    ]
+  },
+  {
+    "word": "ampu",
+    "meanings": [
+      [
+        "verb",
+        "to go"
+      ]
+    ]
+  },
+  {
+    "word": "asai",
+    "meanings": [
+      [
+        "noun",
+        "upper side"
+      ],
+      [
+        "verb",
+        "to bring up, to be upwards"
+      ],
+      [
+        "modifier",
+        "up, high, above"
+      ]
+    ]
+  },
+  {
+    "word": "askan",
+    "meanings": [
+      [
+        "noun",
+        "beginning"
+      ],
+      [
+        "verb",
+        "to start"
+      ],
+      [
+        "modifier",
+        "starting"
+      ]
+    ]
+  },
+  {
+    "word": "aso",
+    "meanings": [
+      [
+        "noun",
+        "scream/shout/yell"
+      ],
+      [
+        "verb",
+        "to scream/shout/yell"
+      ],
+      [
+        "modifier",
+        "loud/aggressive"
+      ]
+    ]
+  },
+  {
+    "word": "asoraimtau",
+    "meanings": [
+      [
+        "noun",
+        "pink"
+      ],
+      [
+        "verb",
+        "to make pink"
+      ],
+      [
+        "modifier",
+        "pink"
+      ]
+    ]
+  },
+  {
+    "word": "asotau",
+    "meanings": [
+      [
+        "noun",
+        "red"
+      ],
+      [
+        "verb",
+        "to make red"
+      ],
+      [
+        "modifier",
+        "red"
+      ]
+    ]
+  },
+  {
+    "word": "atorejen",
+    "meanings": [
+      [
+        "noun",
+        "week (Gregorian calendar)"
+      ]
+    ]
+  },
+  {
+    "word": "atoren",
+    "meanings": [
+      [
+        "noun",
+        "week (Fynotek calendar)"
+      ]
+    ]
+  },
+  {
+    "word": "atymei",
+    "meanings": [
+      [
+        "noun",
+        "health"
+      ],
+      [
+        "verb",
+        "to heal"
+      ],
+      [
+        "modifier",
+        "related to health"
+      ]
+    ]
+  },
+  {
+    "word": "awre",
+    "meanings": [
+      [
+        "noun",
+        "joke, game, entertainment"
+      ],
+      [
+        "verb",
+        "to have fun, to be funny, to entertain"
+      ],
+      [
+        "modifier",
+        "funny, fun, entertaining"
+      ]
+    ]
+  },
+  {
+    "word": "awt",
+    "meanings": [
+      [
+        "noun",
+        "gender"
+      ]
+    ]
+  },
+  {
+    "word": "awtakut",
+    "meanings": [
+      [
+        "noun",
+        "man"
+      ],
+      [
+        "modifier",
+        "male"
+      ]
+    ]
+  },
+  {
+    "word": "awterfays",
+    "meanings": [
+      [
+        "noun",
+        "femme-aligned nonbinary person"
+      ],
+      [
+        "modifier",
+        "femme-aligned nonbinary"
+      ]
+    ]
+  },
+  {
+    "word": "awterfayskut",
+    "meanings": [
+      [
+        "noun",
+        "androgyne-aligned nonbinary person"
+      ],
+      [
+        "modifier",
+        "androgyne-aligned nonbinary"
+      ]
+    ]
+  },
+  {
+    "word": "awterkut",
+    "meanings": [
+      [
+        "noun",
+        "masc-aligned nonbinary person"
+      ],
+      [
+        "modifier",
+        "masc-aligned nonbinary"
+      ]
+    ]
+  },
+  {
+    "word": "awterp",
+    "meanings": [
+      [
+        "noun",
+        "nonbinary person"
+      ],
+      [
+        "modifier",
+        "nonbinary"
+      ]
+    ]
+  },
+  {
+    "word": "awtfays",
+    "meanings": [
+      [
+        "noun",
+        "woman"
+      ],
+      [
+        "modifier",
+        "female"
+      ]
+    ]
+  },
+  {
+    "word": "awtñy",
+    "meanings": [
+      [
+        "noun",
+        "agender person"
+      ],
+      [
+        "modifier",
+        "agender"
+      ]
+    ]
+  },
+  {
+    "word": "awtunso",
+    "meanings": [
+      [
+        "noun",
+        "xenogendered person, xenogender"
+      ],
+      [
+        "modifier",
+        "xenogendered"
+      ]
+    ]
+  },
+  {
+    "word": "easlo",
+    "meanings": [
+      [
+        "noun",
+        "back"
+      ],
+      [
+        "verb",
+        "to bring back"
+      ],
+      [
+        "modifier",
+        "behind"
+      ]
+    ]
+  },
+  {
+    "word": "eiska",
+    "meanings": [
+      [
+        "noun",
+        "end"
+      ],
+      [
+        "verb",
+        "to finish"
+      ],
+      [
+        "modifier",
+        "finishing"
+      ]
+    ]
+  },
+  {
+    "word": "eiskor",
+    "meanings": [
+      [
+        "modifier",
+        "next"
+      ]
+    ]
+  },
+  {
+    "word": "eispo",
+    "meanings": [
+      [
+        "modifier",
+        "previous"
+      ]
+    ]
+  },
+  {
+    "word": "ejen",
+    "meanings": [
+      [
+        "noun",
+        "sun, 1 year in the Gregorian calendar"
+      ],
+      [
+        "modifier",
+        "sunny"
+      ]
+    ]
+  },
+  {
+    "word": "eji",
+    "meanings": [
+      [
+        "pronoun",
+        "he, she, they (third person singular animate pronoun)"
+      ]
+    ]
+  },
+  {
+    "word": "ejime",
+    "meanings": [
+      [
+        "pronoun",
+        "they (third person plural animate pronoun)"
+      ]
+    ]
+  },
+  {
+    "word": "ejtau",
+    "meanings": [
+      [
+        "noun",
+        "yellow"
+      ],
+      [
+        "verb",
+        "to make yellow"
+      ],
+      [
+        "modifier",
+        "yellow"
+      ]
+    ]
+  },
+  {
+    "word": "ejunso",
+    "meanings": [
+      [
+        "noun",
+        "light"
+      ],
+      [
+        "verb",
+        "to illuminate"
+      ],
+      [
+        "modifier",
+        "bright"
+      ]
+    ]
+  },
+  {
+    "word": "emi",
+    "meanings": [
+      [
+        "noun",
+        "box, bag, container"
+      ]
+    ]
+  },
+  {
+    "word": "erp",
+    "meanings": [
+      [
+        "modifier",
+        "neutral"
+      ]
+    ]
+  },
+  {
+    "word": "etwe",
+    "meanings": [
+      [
+        "noun",
+        "right (your/their perspective)"
+      ],
+      [
+        "modifier",
+        "to the right (your/their perspective)"
+      ]
+    ]
+  },
+  {
+    "word": "ewje",
+    "meanings": [
+      [
+        "noun",
+        "hour"
+      ]
+    ]
+  },
+  {
+    "word": "ewnik",
+    "meanings": [
+      [
+        "noun",
+        "murder"
+      ],
+      [
+        "verb",
+        "to kill"
+      ],
+      [
+        "modifier",
+        "murdered"
+      ]
+    ]
+  },
+  {
+    "word": "famo",
+    "meanings": [
+      [
+        "verb",
+        "to wave (to someone)"
+      ]
+    ]
+  },
+  {
+    "word": "fayh",
+    "meanings": [
+      [
+        "noun",
+        "unity"
+      ],
+      [
+        "verb",
+        "to unite"
+      ],
+      [
+        "modifier",
+        "one"
+      ]
+    ]
+  },
+  {
+    "word": "fays",
+    "meanings": [
+      [
+        "modifier",
+        "feminine"
+      ]
+    ]
+  },
+  {
+    "word": "femro",
+    "meanings": [
+      [
+        "noun",
+        "fakeness, lie"
+      ],
+      [
+        "verb",
+        "to tell a lie"
+      ],
+      [
+        "modifier",
+        "fake, unreal"
+      ]
+    ]
+  },
+  {
+    "word": "feñiasa",
+    "meanings": [
+      [
+        "noun",
+        "foot"
+      ]
+    ]
+  },
+  {
+    "word": "feñipur",
+    "meanings": [
+      [
+        "noun",
+        "hand"
+      ]
+    ]
+  },
+  {
+    "word": "feñisamlaa",
+    "meanings": [
+      [
+        "noun",
+        "head, brain"
+      ]
+    ]
+  },
+  {
+    "word": "feñu",
+    "meanings": [
+      [
+        "noun",
+        "body"
+      ]
+    ]
+  },
+  {
+    "word": "feom",
+    "meanings": [
+      [
+        "noun",
+        "rodent"
+      ],
+      [
+        "modifier",
+        "rodentlike"
+      ]
+    ]
+  },
+  {
+    "word": "fimatu",
+    "meanings": [
+      [
+        "noun",
+        "fabric, clothing"
+      ],
+      [
+        "verb",
+        "to wear"
+      ],
+      [
+        "modifier",
+        "fabric"
+      ]
+    ]
+  },
+  {
+    "word": "fjar",
+    "meanings": [
+      [
+        "noun",
+        "sports"
+      ],
+      [
+        "verb",
+        "to play sports"
+      ],
+      [
+        "modifier",
+        "athletic"
+      ]
+    ]
+  },
+  {
+    "word": "fjow",
+    "meanings": [
+      [
+        "noun",
+        "difficulty"
+      ],
+      [
+        "verb",
+        "to obstruct, to block, to make difficult"
+      ],
+      [
+        "modifier",
+        "difficult"
+      ]
+    ]
+  },
+  {
+    "word": "fmutue",
+    "meanings": [
+      [
+        "noun",
+        "person, human"
+      ],
+      [
+        "verb",
+        "to personify"
+      ],
+      [
+        "modifier",
+        "humanoid, personified"
+      ]
+    ]
+  },
+  {
+    "word": "folo",
+    "meanings": [
+      [
+        "pronoun",
+        "himself, herself, themself, themselves (reflexive/reciprocal prnooun)"
+      ]
+    ]
+  },
+  {
+    "word": "fota",
+    "meanings": [
+      [
+        "noun",
+        "building, house"
+      ],
+      [
+        "verb",
+        "to build"
+      ]
+    ]
+  },
+  {
+    "word": "fotampu",
+    "meanings": [
+      [
+        "noun",
+        "vehicle"
+      ],
+      [
+        "verb",
+        "to drive"
+      ],
+      [
+        "modifier",
+        "vehicular"
+      ]
+    ]
+  },
+  {
+    "word": "fotwoetas",
+    "meanings": [
+      [
+        "noun",
+        "beehive"
+      ]
+    ]
+  },
+  {
+    "word": "foun",
+    "meanings": [
+      [
+        "verb",
+        "to renew"
+      ],
+      [
+        "modifier",
+        "new"
+      ]
+    ]
+  },
+  {
+    "word": "fowi",
+    "meanings": [
+      [
+        "noun",
+        "door"
+      ]
+    ]
+  },
+  {
+    "word": "frie",
+    "meanings": [
+      [
+        "noun",
+        "wound"
+      ],
+      [
+        "verb",
+        "to wound"
+      ],
+      [
+        "modifier",
+        "wounded"
+      ]
+    ]
+  },
+  {
+    "word": "friwoetas",
+    "meanings": [
+      [
+        "noun",
+        "bee sting"
+      ]
+    ]
+  },
+  {
+    "word": "ftylna",
+    "meanings": [
+      [
+        "noun",
+        "net, web"
+      ],
+      [
+        "verb",
+        "to make into a web"
+      ],
+      [
+        "modifier",
+        "interlocked, in a web pattern"
+      ]
+    ]
+  },
+  {
+    "word": "fuh",
+    "meanings": [
+      [
+        "noun",
+        "existence"
+      ],
+      [
+        "verb",
+        "to exist, to be"
+      ],
+      [
+        "modifier",
+        "real, true"
+      ],
+      [
+        "interjection",
+        "agreed! true! (general affirmative; not used for answering questions)"
+      ]
+    ]
+  },
+  {
+    "word": "fupa",
+    "meanings": [
+      [
+        "noun",
+        "ear"
+      ],
+      [
+        "verb",
+        "to hear"
+      ]
+    ]
+  },
+  {
+    "word": "fynotek",
+    "meanings": [
+      [
+        "proper noun",
+        "the name of this language"
+      ]
+    ]
+  },
+  {
+    "word": "hao",
+    "meanings": [
+      [
+        "noun",
+        "similarity"
+      ],
+      [
+        "verb",
+        "to be the same as"
+      ],
+      [
+        "modifier",
+        "same"
+      ]
+    ]
+  },
+  {
+    "word": "haria",
+    "meanings": [
+      [
+        "noun",
+        "life"
+      ],
+      [
+        "verb",
+        "to live, to bring life to"
+      ],
+      [
+        "modifier",
+        "alive"
+      ]
+    ]
+  },
+  {
+    "word": "hepwik",
+    "meanings": [
+      [
+        "noun",
+        "wish"
+      ],
+      [
+        "verb",
+        "to want"
+      ]
+    ]
+  },
+  {
+    "word": "hije",
+    "meanings": [
+      [
+        "verb",
+        "to break"
+      ],
+      [
+        "modifier",
+        "broken"
+      ]
+    ]
+  },
+  {
+    "word": "hijkla",
+    "meanings": [
+      [
+        "noun",
+        "fire"
+      ],
+      [
+        "verb",
+        "to set on fire"
+      ],
+      [
+        "modifier",
+        "fiery"
+      ]
+    ]
+  },
+  {
+    "word": "hiks",
+    "meanings": [
+      [
+        "noun",
+        "document, book"
+      ]
+    ]
+  },
+  {
+    "word": "himta",
+    "meanings": [
+      [
+        "noun",
+        "assignment, job"
+      ],
+      [
+        "verb",
+        "to work"
+      ]
+    ]
+  },
+  {
+    "word": "hituña",
+    "meanings": [
+      [
+        "verb",
+        "to bake"
+      ]
+    ]
+  },
+  {
+    "word": "hjapa",
+    "meanings": [
+      [
+        "noun",
+        "flat surface, table"
+      ],
+      [
+        "verb",
+        "to flatten"
+      ],
+      [
+        "modifier",
+        "flat"
+      ]
+    ]
+  },
+  {
+    "word": "hjeu",
+    "meanings": [
+      [
+        "noun",
+        "word"
+      ]
+    ]
+  },
+  {
+    "word": "horse",
+    "meanings": [
+      [
+        "noun",
+        "horse"
+      ],
+      [
+        "verb",
+        "to ride a horse"
+      ],
+      [
+        "modifier",
+        "horselike"
+      ]
+    ]
+  },
+  {
+    "word": "huansa",
+    "meanings": [
+      [
+        "noun",
+        "tar"
+      ]
+    ]
+  },
+  {
+    "word": "huasern",
+    "meanings": [
+      [
+        "noun",
+        "magic"
+      ],
+      [
+        "verb",
+        "to perform magic, to cast a spell, to do something magic"
+      ],
+      [
+        "modifier",
+        "magical"
+      ]
+    ]
+  },
+  {
+    "word": "husi",
+    "meanings": [
+      [
+        "noun",
+        "direction"
+      ],
+      [
+        "verb",
+        "to direct"
+      ]
+    ]
+  },
+  {
+    "word": "hyr",
+    "meanings": [
+      [
+        "noun",
+        "language, speech"
+      ],
+      [
+        "verb",
+        "to speak"
+      ],
+      [
+        "modifier",
+        "linguistic"
+      ]
+    ]
+  },
+  {
+    "word": "iasa",
+    "meanings": [
+      [
+        "noun",
+        "bottom"
+      ],
+      [
+        "verb",
+        "to bring down (physically), to be underneath"
+      ],
+      [
+        "modifier",
+        "down, low, below"
+      ]
+    ]
+  },
+  {
+    "word": "ifiti",
+    "meanings": [
+      [
+        "noun",
+        "spice"
+      ],
+      [
+        "verb",
+        "to add spice"
+      ],
+      [
+        "modifier",
+        "spicy"
+      ]
+    ]
+  },
+  {
+    "word": "iimmmii",
+    "meanings": [
+      [
+        "noun",
+        "microwave"
+      ],
+      [
+        "verb",
+        "to microwave"
+      ],
+      [
+        "modifier",
+        "microwavelike"
+      ]
+    ]
+  },
+  {
+    "word": "ikmeo",
+    "meanings": [
+      [
+        "noun",
+        "music"
+      ],
+      [
+        "verb",
+        "to make music"
+      ],
+      [
+        "modifier",
+        "musical"
+      ]
+    ]
+  },
+  {
+    "word": "ikna",
+    "meanings": [
+      [
+        "noun",
+        "hair, fur, string, line"
+      ],
+      [
+        "modifier",
+        "hairy, stringy"
+      ]
+    ]
+  },
+  {
+    "word": "ilyn",
+    "meanings": [
+      [
+        "noun",
+        "robot, computer"
+      ],
+      [
+        "modifier",
+        "robotic"
+      ]
+    ]
+  },
+  {
+    "word": "inhy",
+    "meanings": [
+      [
+        "noun",
+        "shape"
+      ]
+    ]
+  },
+  {
+    "word": "iso",
+    "meanings": [
+      [
+        "noun",
+        "ability"
+      ],
+      [
+        "verb",
+        "to be able to, can"
+      ],
+      [
+        "modifier",
+        "able"
+      ]
+    ]
+  },
+  {
+    "word": "iuñe",
+    "meanings": [
+      [
+        "noun",
+        "water, liquid"
+      ],
+      [
+        "verb",
+        "to liquify"
+      ],
+      [
+        "modifier",
+        "liquid"
+      ]
+    ]
+  },
+  {
+    "word": "iuñereun",
+    "meanings": [
+      [
+        "noun",
+        "bubble"
+      ]
+    ]
+  },
+  {
+    "word": "jalkeiska",
+    "meanings": [
+      [
+        "noun",
+        "graduation"
+      ],
+      [
+        "verb",
+        "to graduate"
+      ]
+    ]
+  },
+  {
+    "word": "jalki",
+    "meanings": [
+      [
+        "noun",
+        "school"
+      ]
+    ]
+  },
+  {
+    "word": "jaoma",
+    "meanings": [
+      [
+        "noun",
+        "eye"
+      ],
+      [
+        "verb",
+        "to look/see, to appear as"
+      ]
+    ]
+  },
+  {
+    "word": "jawe",
+    "meanings": [
+      [
+        "noun",
+        "growth"
+      ],
+      [
+        "verb",
+        "to grow (transitive)"
+      ]
+    ]
+  },
+  {
+    "word": "jaymka",
+    "meanings": [
+      [
+        "noun",
+        "sky"
+      ]
+    ]
+  },
+  {
+    "word": "jaynasotau",
+    "meanings": [
+      [
+        "noun",
+        "purple"
+      ],
+      [
+        "verb",
+        "to make purple"
+      ],
+      [
+        "modifier",
+        "purple"
+      ]
+    ]
+  },
+  {
+    "word": "jaytau",
+    "meanings": [
+      [
+        "noun",
+        "blue"
+      ],
+      [
+        "verb",
+        "to make blue"
+      ],
+      [
+        "modifier",
+        "blue"
+      ]
+    ]
+  },
+  {
+    "word": "jeaj",
+    "meanings": [
+      [
+        "noun",
+        "day (24 hour period)"
+      ]
+    ]
+  },
+  {
+    "word": "jem",
+    "meanings": [
+      [
+        "noun",
+        "bump"
+      ],
+      [
+        "verb",
+        "to create a bump"
+      ],
+      [
+        "modifier",
+        "bumpy"
+      ]
+    ]
+  },
+  {
+    "word": "jera",
+    "meanings": [
+      [
+        "noun",
+        "creation"
+      ],
+      [
+        "verb",
+        "to create, to make"
+      ],
+      [
+        "modifier",
+        "manmade, artificial"
+      ]
+    ]
+  },
+  {
+    "word": "jerahao",
+    "meanings": [
+      [
+        "noun",
+        "sibling"
+      ]
+    ]
+  },
+  {
+    "word": "jetal",
+    "meanings": [
+      [
+        "modifier",
+        "last, final"
+      ]
+    ]
+  },
+  {
+    "word": "jiwo",
+    "meanings": [
+      [
+        "noun",
+        "block, square, cube"
+      ],
+      [
+        "verb",
+        "to make square/cubed"
+      ],
+      [
+        "modifier",
+        "squarelike, cubelike"
+      ]
+    ]
+  },
+  {
+    "word": "junon",
+    "meanings": [
+      [
+        "pronoun",
+        "that"
+      ]
+    ]
+  },
+  {
+    "word": "juon",
+    "meanings": [
+      [
+        "pronoun",
+        "this"
+      ]
+    ]
+  },
+  {
+    "word": "jukse",
+    "meanings": [
+      [
+        "noun",
+        "store"
+      ],
+      [
+        "verb",
+        "to buy"
+      ]
+    ]
+  },
+  {
+    "word": "junon",
+    "meanings": [
+      [
+        "modifier",
+        "that"
+      ]
+    ]
+  },
+  {
+    "word": "juon",
+    "meanings": [
+      [
+        "modifier",
+        "this"
+      ]
+    ]
+  },
+  {
+    "word": "kaf",
+    "meanings": [
+      [
+        "noun",
+        "plant"
+      ],
+      [
+        "modifier",
+        "plantlike"
+      ]
+    ]
+  },
+  {
+    "word": "kafikna",
+    "meanings": [
+      [
+        "noun",
+        "grass"
+      ],
+      [
+        "modifier",
+        "grasslike"
+      ]
+    ]
+  },
+  {
+    "word": "kafskan",
+    "meanings": [
+      [
+        "noun",
+        "seed"
+      ]
+    ]
+  },
+  {
+    "word": "kaftau",
+    "meanings": [
+      [
+        "noun",
+        "green"
+      ],
+      [
+        "verb",
+        "to make green"
+      ],
+      [
+        "modifier",
+        "green"
+      ]
+    ]
+  },
+  {
+    "word": "kaftofa",
+    "meanings": [
+      [
+        "noun",
+        "flower"
+      ]
+    ]
+  },
+  {
+    "word": "kaftofiuñe",
+    "meanings": [
+      [
+        "noun",
+        "nectar"
+      ]
+    ]
+  },
+  {
+    "word": "kaftofoñek",
+    "meanings": [
+      [
+        "noun",
+        "pollen"
+      ]
+    ]
+  },
+  {
+    "word": "kaha",
+    "meanings": [
+      [
+        "noun",
+        "laughter"
+      ],
+      [
+        "verb",
+        "to laugh"
+      ],
+      [
+        "modifier",
+        "laughing"
+      ]
+    ]
+  },
+  {
+    "word": "kemnu",
+    "meanings": [
+      [
+        "noun",
+        "left (your/their perspective)"
+      ],
+      [
+        "modifier",
+        "to the left (your/their perspective)"
+      ]
+    ]
+  },
+  {
+    "word": "kiakfutejen",
+    "meanings": [
+      [
+        "noun",
+        "reptile"
+      ],
+      [
+        "modifier",
+        "reptilian"
+      ]
+    ]
+  },
+  {
+    "word": "kiakfutiuñe",
+    "meanings": [
+      [
+        "noun",
+        "fish"
+      ],
+      [
+        "modifier",
+        "fishlike"
+      ]
+    ]
+  },
+  {
+    "word": "kiakfutreun",
+    "meanings": [
+      [
+        "noun",
+        "bird"
+      ],
+      [
+        "modifier",
+        "birdlike"
+      ]
+    ]
+  },
+  {
+    "word": "kiakfutu",
+    "meanings": [
+      [
+        "noun",
+        "animal"
+      ],
+      [
+        "modifier",
+        "animal-like"
+      ]
+    ]
+  },
+  {
+    "word": "kiakfutyla",
+    "meanings": [
+      [
+        "noun",
+        "bug, insect"
+      ],
+      [
+        "modifier",
+        "insect-like"
+      ]
+    ]
+  },
+  {
+    "word": "kimou",
+    "meanings": [
+      [
+        "noun",
+        "spoons"
+      ],
+      [
+        "verb",
+        "to have spoons"
+      ],
+      [
+        "modifier",
+        "having spoons"
+      ]
+    ]
+  },
+  {
+    "word": "kimpe",
+    "meanings": [
+      [
+        "noun",
+        "medicine"
+      ],
+      [
+        "verb",
+        "to medicate"
+      ],
+      [
+        "modifier",
+        "medicinal"
+      ]
+    ]
+  },
+  {
+    "word": "kisak",
+    "meanings": [
+      [
+        "noun",
+        "piece, part"
+      ],
+      [
+        "verb",
+        "to cut, to halve, to divide"
+      ],
+      [
+        "modifier",
+        "some, few"
+      ]
+    ]
+  },
+  {
+    "word": "kito",
+    "meanings": [
+      [
+        "noun",
+        "rabbit"
+      ],
+      [
+        "modifier",
+        "rabbitlike"
+      ]
+    ]
+  },
+  {
+    "word": "kjam",
+    "meanings": [
+      [
+        "modifier",
+        "too, also"
+      ]
+    ]
+  },
+  {
+    "word": "kjekos",
+    "meanings": [
+      [
+        "noun",
+        "everything, universe, world"
+      ],
+      [
+        "modifier",
+        "all, every"
+      ]
+    ]
+  },
+  {
+    "word": "kmafi",
+    "meanings": [
+      [
+        "noun",
+        "stealing"
+      ],
+      [
+        "verb",
+        "to steal"
+      ],
+      [
+        "modifier",
+        "stolen"
+      ]
+    ]
+  },
+  {
+    "word": "knei",
+    "meanings": [
+      [
+        "noun",
+        "obstacle"
+      ],
+      [
+        "verb",
+        "to stop, to obtrude"
+      ],
+      [
+        "modifier",
+        "obtrusive"
+      ]
+    ]
+  },
+  {
+    "word": "kohol",
+    "meanings": [
+      [
+        "noun",
+        "game"
+      ],
+      [
+        "verb",
+        "to play"
+      ],
+      [
+        "modifier",
+        "gamelike"
+      ]
+    ]
+  },
+  {
+    "word": "koli",
+    "meanings": [
+      [
+        "noun",
+        "plagarism"
+      ],
+      [
+        "verb",
+        "to plagarize"
+      ]
+    ]
+  },
+  {
+    "word": "kou",
+    "meanings": [
+      [
+        "noun",
+        "leg"
+      ]
+    ]
+  },
+  {
+    "word": "kui",
+    "meanings": [
+      [
+        "noun",
+        "scary creature, monster"
+      ],
+      [
+        "verb",
+        "to scare"
+      ],
+      [
+        "modifier",
+        "scary"
+      ]
+    ]
+  },
+  {
+    "word": "kunin",
+    "meanings": [
+      [
+        "noun",
+        "stick-shaped object"
+      ],
+      [
+        "verb",
+        "to make stick-shaped"
+      ],
+      [
+        "modifier",
+        "stick-shaped"
+      ]
+    ]
+  },
+  {
+    "word": "kusum",
+    "meanings": [
+      [
+        "noun",
+        "repetition"
+      ],
+      [
+        "verb",
+        "to repeat"
+      ],
+      [
+        "modifier",
+        "again, redundant"
+      ]
+    ]
+  },
+  {
+    "word": "kut",
+    "meanings": [
+      [
+        "noun",
+        "masculinity"
+      ],
+      [
+        "modifier",
+        "masculine"
+      ]
+    ]
+  },
+  {
+    "word": "kynsi",
+    "meanings": [
+      [
+        "noun",
+        "time"
+      ],
+      [
+        "verb",
+        "to kill time"
+      ],
+      [
+        "modifier",
+        "often"
+      ]
+    ]
+  },
+  {
+    "word": "lituwle",
+    "meanings": [
+      [
+        "noun",
+        "bread, grain, wheat"
+      ]
+    ]
+  },
+  {
+    "word": "luel",
+    "meanings": [
+      [
+        "noun",
+        "number, math"
+      ],
+      [
+        "verb",
+        "to calculate"
+      ],
+      [
+        "modifier",
+        "numerical, mathmatical"
+      ]
+    ]
+  },
+  {
+    "word": "makio",
+    "meanings": [
+      [
+        "noun",
+        "sound"
+      ],
+      [
+        "verb",
+        "to produce sound"
+      ],
+      [
+        "modifier",
+        "noisy, loud"
+      ]
+    ]
+  },
+  {
+    "word": "mamyo",
+    "meanings": [
+      [
+        "noun",
+        "age"
+      ],
+      [
+        "verb",
+        "to age (intransitive), to be the same age as (transitive)"
+      ]
+    ]
+  },
+  {
+    "word": "masno",
+    "meanings": [
+      [
+        "modifier",
+        "but, only"
+      ]
+    ]
+  },
+  {
+    "word": "mawak",
+    "meanings": [
+      [
+        "noun",
+        "arrival"
+      ],
+      [
+        "verb",
+        "to come, to arrive, to become"
+      ]
+    ]
+  },
+  {
+    "word": "mees",
+    "meanings": [
+      [
+        "verb",
+        "to read"
+      ],
+      [
+        "modifier",
+        "literary"
+      ]
+    ]
+  },
+  {
+    "word": "meome",
+    "meanings": [
+      [
+        "noun",
+        "fight, battle, war"
+      ],
+      [
+        "verb",
+        "to fight"
+      ],
+      [
+        "modifier",
+        "fighting, aggressive"
+      ]
+    ]
+  },
+  {
+    "word": "mikip",
+    "meanings": [
+      [
+        "noun",
+        "usage"
+      ],
+      [
+        "verb",
+        "to use"
+      ],
+      [
+        "modifier",
+        "used"
+      ]
+    ]
+  },
+  {
+    "word": "mjef",
+    "meanings": [
+      [
+        "noun",
+        "grammar"
+      ],
+      [
+        "modifier",
+        "grammatical"
+      ]
+    ]
+  },
+  {
+    "word": "mjulis",
+    "meanings": [
+      [
+        "noun",
+        "second"
+      ]
+    ]
+  },
+  {
+    "word": "mjuw",
+    "meanings": [
+      [
+        "modifier",
+        "old"
+      ]
+    ]
+  },
+  {
+    "word": "mumfih",
+    "meanings": [
+      [
+        "noun",
+        "hunted animals"
+      ],
+      [
+        "verb",
+        "to hunt, to gather"
+      ]
+    ]
+  },
+  {
+    "word": "mumiu",
+    "meanings": [
+      [
+        "noun",
+        "cold"
+      ],
+      [
+        "verb",
+        "to freeze (transitive)"
+      ],
+      [
+        "modifier",
+        "cold"
+      ]
+    ]
+  },
+  {
+    "word": "muosai",
+    "meanings": [
+      [
+        "noun",
+        "brick"
+      ]
+    ]
+  },
+  {
+    "word": "muyfa",
+    "meanings": [
+      [
+        "noun",
+        "left (my perspective)"
+      ],
+      [
+        "modifier",
+        "to the left (my perspective)"
+      ]
+    ]
+  },
+  {
+    "word": "najar",
+    "meanings": [
+      [
+        "verb",
+        "to take with/to"
+      ]
+    ]
+  },
+  {
+    "word": "nakuu",
+    "meanings": [
+      [
+        "noun",
+        "cleanliness"
+      ],
+      [
+        "verb",
+        "to clean"
+      ],
+      [
+        "modifier",
+        "clean"
+      ]
+    ]
+  },
+  {
+    "word": "nawpo",
+    "meanings": [
+      [
+        "noun",
+        "sleep"
+      ],
+      [
+        "verb",
+        "to sleep"
+      ],
+      [
+        "modifier",
+        "asleep"
+      ]
+    ]
+  },
+  {
+    "word": "nawtau",
+    "meanings": [
+      [
+        "noun",
+        "black"
+      ],
+      [
+        "verb",
+        "to make black"
+      ],
+      [
+        "modifier",
+        "black"
+      ]
+    ]
+  },
+  {
+    "word": "nesmo",
+    "meanings": [
+      [
+        "noun",
+        "mirror, reflection"
+      ],
+      [
+        "verb",
+        "to reflect"
+      ],
+      [
+        "modifier",
+        "opposite, reflected"
+      ]
+    ]
+  },
+  {
+    "word": "ninpa",
+    "meanings": [
+      [
+        "verb",
+        "to give"
+      ]
+    ]
+  },
+  {
+    "word": "noaksyo",
+    "meanings": [
+      [
+        "noun",
+        "honey"
+      ]
+    ]
+  },
+  {
+    "word": "nohu",
+    "meanings": [
+      [
+        "noun",
+        "group"
+      ],
+      [
+        "verb",
+        "to cluster (intransitive), to group together (transitive)"
+      ],
+      [
+        "modifier",
+        "clustered"
+      ]
+    ]
+  },
+  {
+    "word": "nomyt",
+    "meanings": [
+      [
+        "verb",
+        "to open"
+      ],
+      [
+        "modifier",
+        "openable"
+      ]
+    ]
+  },
+  {
+    "word": "nowto",
+    "meanings": [
+      [
+        "noun",
+        "tool"
+      ]
+    ]
+  },
+  {
+    "word": "nyom",
+    "meanings": [
+      [
+        "noun",
+        "name"
+      ],
+      [
+        "verb",
+        "to use as a name"
+      ]
+    ]
+  },
+  {
+    "word": "nytsa",
+    "meanings": [
+      [
+        "noun",
+        "braid"
+      ],
+      [
+        "verb",
+        "to weave"
+      ]
+    ]
+  },
+  {
+    "word": "ñaasi",
+    "meanings": [
+      [
+        "modifier",
+        "many, most, more"
+      ]
+    ]
+  },
+  {
+    "word": "ñaki",
+    "meanings": [
+      [
+        "pronoun",
+        "you (singular)"
+      ]
+    ]
+  },
+  {
+    "word": "ñakime",
+    "meanings": [
+      [
+        "pronoun",
+        "you (plural)"
+      ]
+    ]
+  },
+  {
+    "word": "ñawa",
+    "meanings": [
+      [
+        "noun",
+        "cat"
+      ],
+      [
+        "modifier",
+        "feline"
+      ]
+    ]
+  },
+  {
+    "word": "ñeñe",
+    "meanings": [
+      [
+        "noun",
+        "road"
+      ]
+    ]
+  },
+  {
+    "word": "ñojera",
+    "meanings": [
+      [
+        "noun",
+        "parent"
+      ],
+      [
+        "verb",
+        "to give birth to"
+      ],
+      [
+        "modifier",
+        "parental"
+      ]
+    ]
+  },
+  {
+    "word": "ñokaf",
+    "meanings": [
+      [
+        "noun",
+        "fruit"
+      ],
+      [
+        "modifier",
+        "fruity"
+      ]
+    ]
+  },
+  {
+    "word": "ñot",
+    "meanings": [
+      [
+        "noun",
+        "child"
+      ],
+      [
+        "modifier",
+        "childish"
+      ]
+    ]
+  },
+  {
+    "word": "ñuhju",
+    "meanings": [
+      [
+        "noun",
+        "search"
+      ],
+      [
+        "verb",
+        "to find"
+      ]
+    ]
+  },
+  {
+    "word": "ñuk",
+    "meanings": [
+      [
+        "noun",
+        "growth"
+      ],
+      [
+        "verb",
+        "to grow (intransitive)"
+      ]
+    ]
+  },
+  {
+    "word": "ñytejen",
+    "meanings": [
+      [
+        "noun",
+        "1 month in the Gregorian calendar"
+      ]
+    ]
+  },
+  {
+    "word": "ñytuh",
+    "meanings": [
+      [
+        "noun",
+        "moon, 1 month in the Fynotek calendar"
+      ],
+      [
+        "modifier",
+        "lunar"
+      ]
+    ]
+  },
+  {
+    "word": "oansi",
+    "meanings": [
+      [
+        "noun",
+        "sex"
+      ],
+      [
+        "verb",
+        "to have sex with"
+      ],
+      [
+        "modifier",
+        "sexual"
+      ]
+    ]
+  },
+  {
+    "word": "ofu",
+    "meanings": [
+      [
+        "noun",
+        "philosophy"
+      ],
+      [
+        "modifier",
+        "philosophical"
+      ]
+    ]
+  },
+  {
+    "word": "ojnyla",
+    "meanings": [
+      [
+        "proper noun",
+        "a simplified version of ojnym, primarily for young children"
+      ]
+    ]
+  },
+  {
+    "word": "Ojnym",
+    "meanings": [
+      [
+        "proper noun",
+        "the official fynotek writing system"
+      ]
+    ]
+  },
+  {
+    "word": "omoa",
+    "meanings": [
+      [
+        "noun",
+        "suspicion"
+      ],
+      [
+        "verb",
+        "to suspect"
+      ],
+      [
+        "modifier",
+        "suspicious"
+      ]
+    ]
+  },
+  {
+    "word": "omplan",
+    "meanings": [
+      [
+        "noun",
+        "badness"
+      ],
+      [
+        "verb",
+        "to dislike"
+      ],
+      [
+        "modifier",
+        "bad"
+      ]
+    ]
+  },
+  {
+    "word": "oñek",
+    "meanings": [
+      [
+        "noun",
+        "powder"
+      ],
+      [
+        "modifier",
+        "powdery"
+      ]
+    ]
+  },
+  {
+    "word": "oñekatau",
+    "meanings": [
+      [
+        "noun",
+        "gray"
+      ],
+      [
+        "verb",
+        "to make gray"
+      ],
+      [
+        "modifier",
+        "gray"
+      ]
+    ]
+  },
+  {
+    "word": "oñeotnat",
+    "meanings": [
+      [
+        "noun",
+        "sugar"
+      ],
+      [
+        "modifier",
+        "sugary"
+      ]
+    ]
+  },
+  {
+    "word": "onstana",
+    "meanings": [
+      [
+        "noun",
+        "death"
+      ],
+      [
+        "verb",
+        "to die"
+      ],
+      [
+        "modifier",
+        "dead"
+      ]
+    ]
+  },
+  {
+    "word": "ookwy",
+    "meanings": [
+      [
+        "noun",
+        "lint"
+      ]
+    ]
+  },
+  {
+    "word": "ootnat",
+    "meanings": [
+      [
+        "noun",
+        "sweetness"
+      ],
+      [
+        "modifier",
+        "sweet"
+      ]
+    ]
+  },
+  {
+    "word": "otme",
+    "meanings": [
+      [
+        "noun",
+        "gathering, event, party"
+      ]
+    ]
+  },
+  {
+    "word": "pamlas",
+    "meanings": [
+      [
+        "noun",
+        "feeling (physical)"
+      ],
+      [
+        "verb",
+        "to feel, to touch (physical)"
+      ]
+    ]
+  },
+  {
+    "word": "pasni",
+    "meanings": [
+      [
+        "noun",
+        "stone, rock, hard solid"
+      ]
+    ]
+  },
+  {
+    "word": "pelwo",
+    "meanings": [
+      [
+        "noun",
+        "waste, grossness"
+      ],
+      [
+        "verb",
+        "to make dirty"
+      ],
+      [
+        "modifier",
+        "dirty, gross"
+      ]
+    ]
+  },
+  {
+    "word": "peoka",
+    "meanings": [
+      [
+        "noun",
+        "middle"
+      ],
+      [
+        "modifier",
+        "average"
+      ]
+    ]
+  },
+  {
+    "word": "perlii",
+    "meanings": [
+      [
+        "modifier",
+        "few, less, least"
+      ]
+    ]
+  },
+  {
+    "word": "pert",
+    "meanings": [
+      [
+        "noun",
+        "wind"
+      ],
+      [
+        "modifier",
+        "windy"
+      ]
+    ]
+  },
+  {
+    "word": "piu",
+    "meanings": [
+      [
+        "noun",
+        "food"
+      ],
+      [
+        "verb",
+        "to eat"
+      ]
+    ]
+  },
+  {
+    "word": "plymei",
+    "meanings": [
+      [
+        "noun",
+        "wall"
+      ]
+    ]
+  },
+  {
+    "word": "prios",
+    "meanings": [
+      [
+        "noun",
+        "code, program"
+      ],
+      [
+        "verb",
+        "to code"
+      ],
+      [
+        "modifier",
+        "coded, programmed"
+      ]
+    ]
+  },
+  {
+    "word": "psoi",
+    "meanings": [
+      [
+        "noun",
+        "skin, outer layer"
+      ]
+    ]
+  },
+  {
+    "word": "puljae",
+    "meanings": [
+      [
+        "noun",
+        "star"
+      ]
+    ]
+  },
+  {
+    "word": "pyhan",
+    "meanings": [
+      [
+        "verb",
+        "to do"
+      ]
+    ]
+  },
+  {
+    "word": "pykwu",
+    "meanings": [
+      [
+        "noun",
+        "image, drawing, picture"
+      ],
+      [
+        "verb",
+        "to draw, to write"
+      ]
+    ]
+  },
+  {
+    "word": "pyn",
+    "meanings": [
+      [
+        "modifier",
+        "fucking (general expletive)"
+      ],
+      [
+        "interjection",
+        "fuck! (general expletive)"
+      ]
+    ]
+  },
+  {
+    "word": "pynsi",
+    "meanings": [
+      [
+        "verb",
+        "to think"
+      ]
+    ]
+  },
+  {
+    "word": "pyum",
+    "meanings": [
+      [
+        "noun",
+        "love"
+      ],
+      [
+        "verb",
+        "to love"
+      ],
+      [
+        "modifier",
+        "loving"
+      ]
+    ]
+  },
+  {
+    "word": "raim",
+    "meanings": [
+      [
+        "noun",
+        "absence"
+      ],
+      [
+        "verb",
+        "to get rid of (transitive), to disappear (intransitive)"
+      ],
+      [
+        "modifier",
+        "gone, absent, missing"
+      ]
+    ]
+  },
+  {
+    "word": "raimtau",
+    "meanings": [
+      [
+        "noun",
+        "white"
+      ],
+      [
+        "verb",
+        "to make white"
+      ],
+      [
+        "modifier",
+        "white"
+      ]
+    ]
+  },
+  {
+    "word": "ralmo",
+    "meanings": [
+      [
+        "noun",
+        "clay"
+      ],
+      [
+        "modifier",
+        "claylike"
+      ]
+    ]
+  },
+  {
+    "word": "ralmtau",
+    "meanings": [
+      [
+        "noun",
+        "brown"
+      ],
+      [
+        "verb",
+        "to make brown"
+      ],
+      [
+        "modifier",
+        "brown"
+      ]
+    ]
+  },
+  {
+    "word": "ratas",
+    "meanings": [
+      [
+        "noun",
+        "knowledge"
+      ],
+      [
+        "verb",
+        "to know"
+      ],
+      [
+        "modifier",
+        "smart, knowledgeable"
+      ]
+    ]
+  },
+  {
+    "word": "repsumu",
+    "meanings": [
+      [
+        "verb",
+        "to help"
+      ],
+      [
+        "modifier",
+        "helpful"
+      ]
+    ]
+  },
+  {
+    "word": "reun",
+    "meanings": [
+      [
+        "noun",
+        "air"
+      ]
+    ]
+  },
+  {
+    "word": "ria",
+    "meanings": [
+      [
+        "noun",
+        "money"
+      ]
+    ]
+  },
+  {
+    "word": "rikoa",
+    "meanings": [
+      [
+        "noun",
+        "floor"
+      ]
+    ]
+  },
+  {
+    "word": "rjahe",
+    "meanings": [
+      [
+        "noun",
+        "right (my perspective)"
+      ],
+      [
+        "modifier",
+        "to the right (my perspective)"
+      ]
+    ]
+  },
+  {
+    "word": "rjuh",
+    "meanings": [
+      [
+        "noun",
+        "mountain"
+      ],
+      [
+        "modifier",
+        "mountainous"
+      ]
+    ]
+  },
+  {
+    "word": "rouju",
+    "meanings": [
+      [
+        "noun",
+        "excitement"
+      ],
+      [
+        "modifier",
+        "excited"
+      ]
+    ]
+  },
+  {
+    "word": "ru",
+    "meanings": [
+      [
+        "noun",
+        "warmth"
+      ],
+      [
+        "verb",
+        "to warm (transitive)"
+      ],
+      [
+        "modifier",
+        "warm"
+      ]
+    ]
+  },
+  {
+    "word": "safel",
+    "meanings": [
+      [
+        "noun",
+        "internet"
+      ],
+      [
+        "verb",
+        "to interact with the internet, to be online"
+      ],
+      [
+        "modifier",
+        "online"
+      ]
+    ]
+  },
+  {
+    "word": "salkina",
+    "meanings": [
+      [
+        "noun",
+        "way/method/ideology"
+      ]
+    ]
+  },
+  {
+    "word": "samlaa",
+    "meanings": [
+      [
+        "noun",
+        "government, rules"
+      ],
+      [
+        "verb",
+        "to govern, to rule"
+      ],
+      [
+        "modifier",
+        "powerful, governmental"
+      ]
+    ]
+  },
+  {
+    "word": "saraso",
+    "meanings": [
+      [
+        "pronoun",
+        "what"
+      ]
+    ]
+  },
+  {
+    "word": "seeha",
+    "meanings": [
+      [
+        "noun",
+        "face"
+      ],
+      [
+        "modifier",
+        "facial"
+      ]
+    ]
+  },
+  {
+    "word": "sefo",
+    "meanings": [
+      [
+        "noun",
+        "goodness"
+      ],
+      [
+        "verb",
+        "to like"
+      ],
+      [
+        "modifier",
+        "good"
+      ]
+    ]
+  },
+  {
+    "word": "senkek",
+    "meanings": [
+      [
+        "noun",
+        "climate, weather"
+      ]
+    ]
+  },
+  {
+    "word": "sfoufa",
+    "meanings": [
+      [
+        "noun",
+        "invented character/being"
+      ]
+    ]
+  },
+  {
+    "word": "sihne",
+    "meanings": [
+      [
+        "noun",
+        "difference"
+      ],
+      [
+        "verb",
+        "to change"
+      ],
+      [
+        "modifier",
+        "different, other"
+      ]
+    ]
+  },
+  {
+    "word": "sihneawt",
+    "meanings": [
+      [
+        "noun",
+        "transgenderness"
+      ],
+      [
+        "modifier",
+        "transgender"
+      ]
+    ]
+  },
+  {
+    "word": "siofu",
+    "meanings": [
+      [
+        "noun",
+        "mushroom, fungus"
+      ],
+      [
+        "modifier",
+        "fungal"
+      ]
+    ]
+  },
+  {
+    "word": "skafas",
+    "meanings": [
+      [
+        "noun",
+        "possessions"
+      ],
+      [
+        "verb",
+        "to have"
+      ]
+    ]
+  },
+  {
+    "word": "smei",
+    "meanings": [
+      [
+        "modifier",
+        "some sort of, indeterminate"
+      ]
+    ]
+  },
+  {
+    "word": "soatar",
+    "meanings": [
+      [
+        "noun",
+        "arm"
+      ]
+    ]
+  },
+  {
+    "word": "sojeon",
+    "meanings": [
+      [
+        "noun",
+        "side"
+      ],
+      [
+        "verb",
+        "to be next to"
+      ]
+    ]
+  },
+  {
+    "word": "suarn",
+    "meanings": [
+      [
+        "verb",
+        "to settle/set up house"
+      ]
+    ]
+  },
+  {
+    "word": "susni",
+    "meanings": [
+      [
+        "noun",
+        "mistake"
+      ],
+      [
+        "verb",
+        "to make a mistake"
+      ],
+      [
+        "modifier",
+        "accidental"
+      ]
+    ]
+  },
+  {
+    "word": "swie",
+    "meanings": [
+      [
+        "noun",
+        "tear"
+      ],
+      [
+        "verb",
+        "to cry"
+      ],
+      [
+        "modifier",
+        "teary"
+      ]
+    ]
+  },
+  {
+    "word": "tau",
+    "meanings": [
+      [
+        "noun",
+        "color"
+      ],
+      [
+        "verb",
+        "to color"
+      ],
+      [
+        "modifier",
+        "colorful"
+      ]
+    ]
+  },
+  {
+    "word": "teipiw",
+    "meanings": [
+      [
+        "noun",
+        "secret"
+      ],
+      [
+        "verb",
+        "to hide (transitive)"
+      ],
+      [
+        "modifier",
+        "secret"
+      ]
+    ]
+  },
+  {
+    "word": "tek",
+    "meanings": [
+      [
+        "noun",
+        "gel"
+      ],
+      [
+        "modifier",
+        "gelatinous"
+      ]
+    ]
+  },
+  {
+    "word": "teplii",
+    "meanings": [
+      [
+        "noun",
+        "contents, inside"
+      ],
+      [
+        "verb",
+        "to go inside"
+      ],
+      [
+        "modifier",
+        "inside"
+      ]
+    ]
+  },
+  {
+    "word": "tfaa",
+    "meanings": [
+      [
+        "noun",
+        "circle, 1 year in the Fynotek calendar"
+      ],
+      [
+        "verb",
+        "to make into a circle"
+      ],
+      [
+        "modifier",
+        "circular"
+      ]
+    ]
+  },
+  {
+    "word": "tfemka",
+    "meanings": [
+      [
+        "noun",
+        "city"
+      ]
+    ]
+  },
+  {
+    "word": "tia",
+    "meanings": [
+      [
+        "noun",
+        "mouth"
+      ],
+      [
+        "modifier",
+        "oral"
+      ]
+    ]
+  },
+  {
+    "word": "tiisupa",
+    "meanings": [
+      [
+        "noun",
+        "attempt"
+      ],
+      [
+        "verb",
+        "to try, to test"
+      ]
+    ]
+  },
+  {
+    "word": "timohsa",
+    "meanings": [
+      [
+        "noun",
+        "mortar"
+      ]
+    ]
+  },
+  {
+    "word": "tinpo",
+    "meanings": [
+      [
+        "verb",
+        "to change/fluctuate over time"
+      ]
+    ]
+  },
+  {
+    "word": "tlyo",
+    "meanings": [
+      [
+        "noun",
+        "need"
+      ],
+      [
+        "verb",
+        "to need"
+      ],
+      [
+        "modifier",
+        "necessary"
+      ]
+    ]
+  },
+  {
+    "word": "toaju",
+    "meanings": [
+      [
+        "noun",
+        "spirit, meaning, essence"
+      ],
+      [
+        "modifier",
+        "spiritual"
+      ]
+    ]
+  },
+  {
+    "word": "tofa",
+    "meanings": [
+      [
+        "noun",
+        "beauty"
+      ],
+      [
+        "modifier",
+        "beautiful"
+      ]
+    ]
+  },
+  {
+    "word": "tsala",
+    "meanings": [
+      [
+        "noun",
+        "movement, motion"
+      ],
+      [
+        "verb",
+        "to move"
+      ],
+      [
+        "modifier",
+        "moving"
+      ]
+    ]
+  },
+  {
+    "word": "tua",
+    "meanings": [
+      [
+        "pronoun",
+        "you, one (impersonal pronoun)"
+      ]
+    ]
+  },
+  {
+    "word": "tukaño",
+    "meanings": [
+      [
+        "noun",
+        "taking"
+      ],
+      [
+        "verb",
+        "to take, to grab"
+      ],
+      [
+        "modifier",
+        "taken"
+      ]
+    ]
+  },
+  {
+    "word": "tunu",
+    "meanings": [
+      [
+        "verb",
+        "to get"
+      ]
+    ]
+  },
+  {
+    "word": "twauke",
+    "meanings": [
+      [
+        "noun",
+        "wing"
+      ]
+    ]
+  },
+  {
+    "word": "tyñk",
+    "meanings": [
+      [
+        "verb",
+        "to introduce"
+      ]
+    ]
+  },
+  {
+    "word": "ukea",
+    "meanings": [
+      [
+        "verb",
+        "to wait, to stay"
+      ],
+      [
+        "modifier",
+        "still"
+      ]
+    ]
+  },
+  {
+    "word": "ukhin",
+    "meanings": [
+      [
+        "noun",
+        "minute"
+      ]
+    ]
+  },
+  {
+    "word": "ula",
+    "meanings": [
+      [
+        "modifier",
+        "big, very"
+      ]
+    ]
+  },
+  {
+    "word": "ulpia",
+    "meanings": [
+      [
+        "noun",
+        "adult"
+      ]
+    ]
+  },
+  {
+    "word": "unso",
+    "meanings": [
+      [
+        "noun",
+        "thing"
+      ]
+    ]
+  },
+  {
+    "word": "uwsafur",
+    "meanings": [
+      [
+        "noun",
+        "cause"
+      ],
+      [
+        "verb",
+        "to cause"
+      ]
+    ]
+  },
+  {
+    "word": "uykan",
+    "meanings": [
+      [
+        "noun",
+        "flight"
+      ],
+      [
+        "verb",
+        "to fly"
+      ]
+    ]
+  },
+  {
+    "word": "weifsa",
+    "meanings": [
+      [
+        "modifier",
+        "weird, odd"
+      ]
+    ]
+  },
+  {
+    "word": "wiamta",
+    "meanings": [
+      [
+        "noun",
+        "god, deity"
+      ],
+      [
+        "verb",
+        "to pray"
+      ],
+      [
+        "modifier",
+        "holy, divine"
+      ]
+    ]
+  },
+  {
+    "word": "wipy",
+    "meanings": [
+      [
+        "noun",
+        "ease"
+      ],
+      [
+        "modifier",
+        "easy"
+      ]
+    ]
+  },
+  {
+    "word": "woetas",
+    "meanings": [
+      [
+        "noun",
+        "bee"
+      ]
+    ]
+  },
+  {
+    "word": "wyike",
+    "meanings": [
+      [
+        "noun",
+        "strength"
+      ],
+      [
+        "verb",
+        "to strengthen"
+      ],
+      [
+        "modifier",
+        "strong"
+      ]
+    ]
+  },
+  {
+    "word": "yahan",
+    "meanings": [
+      [
+        "noun",
+        "place"
+      ]
+    ]
+  },
+  {
+    "word": "yla",
+    "meanings": [
+      [
+        "modifier",
+        "small, barely"
+      ]
+    ]
+  },
+  {
+    "word": "yñwy",
+    "meanings": [
+      [
+        "noun",
+        "choice"
+      ],
+      [
+        "verb",
+        "to choose"
+      ],
+      [
+        "modifier",
+        "optional"
+      ]
+    ]
+  },
+  {
+    "word": "yra",
+    "meanings": [
+      [
+        "pronoun",
+        "it (third person singular inanimate prnooun)"
+      ]
+    ]
+  },
+  {
+    "word": "yrame",
+    "meanings": [
+      [
+        "pronoun",
+        "they (third person plural inanimate prnooun)"
+      ]
+    ]
+  },
+  {
+    "word": "yren",
+    "meanings": [
+      [
+        "noun",
+        "dog"
+      ],
+      [
+        "modifier",
+        "canine"
+      ]
+    ]
+  },
+  {
+    "word": "yumi",
+    "meanings": [
+      [
+        "pronoun",
+        "I, me"
+      ]
+    ]
+  },
+  {
+    "word": "yumia",
+    "meanings": [
+      [
+        "pronoun",
+        "we, us (including the listener)"
+      ]
+    ]
+  },
+  {
+    "word": "yumiame",
+    "meanings": [
+      [
+        "pronoun",
+        "we, us (excluding the listener)"
+      ]
+    ]
+  },
+  {
+    "word": "ywaaso",
+    "meanings": [
+      [
+        "noun",
+        "anger"
+      ],
+      [
+        "verb",
+        "to anger"
+      ],
+      [
+        "modifier",
+        "angry"
+      ]
+    ]
+  },
+  {
+    "word": "ywakui",
+    "meanings": [
+      [
+        "noun",
+        "fear"
+      ],
+      [
+        "verb",
+        "to be scared of"
+      ],
+      [
+        "modifier",
+        "scared"
+      ]
+    ]
+  },
+  {
+    "word": "ywaomplan",
+    "meanings": [
+      [
+        "noun",
+        "sadness"
+      ],
+      [
+        "verb",
+        "to make sad"
+      ],
+      [
+        "modifier",
+        "sad"
+      ]
+    ]
+  },
+  {
+    "word": "ywar",
+    "meanings": [
+      [
+        "noun",
+        "feeling (emotional)"
+      ],
+      [
+        "verb",
+        "to feel (emotional)"
+      ]
+    ]
+  },
+  {
+    "word": "ywasefo",
+    "meanings": [
+      [
+        "noun",
+        "happiness"
+      ],
+      [
+        "verb",
+        "to make happy"
+      ],
+      [
+        "modifier",
+        "happy"
+      ]
+    ]
+  }
+]

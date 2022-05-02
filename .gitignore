@@ -2,3 +2,8 @@
 Gemfile
 Gemfile.lock
 _site/
+dict/src/*.sublime-*
+dict/src/project_info/
+dict/src/node_modules/
+dict/src/dist/
+dict/src/README.md
