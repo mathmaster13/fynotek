@@ -774,7 +774,7 @@
       ],
       [
         "verb",
-        "to exist, to be"
+        "to exist"
       ],
       [
         "modifier",
@@ -3631,6 +3631,78 @@
       [
         "modifier",
         "happy"
+      ]
+    ]
+  },
+  {
+    "word": "a-",
+    "meanings": [
+      [
+        "prefix",
+        "[marks a word as a (non-proper) noun]"
+      ]
+    ]
+  },
+  {
+    "word": "e-",
+    "meanings": [
+      [
+        "prefix",
+        "[marks a word as a proper noun]"
+      ]
+    ]
+  },
+  {
+    "word": "i-",
+    "meanings": [
+      [
+        "prefix",
+        "[marks a word as a verb]"
+      ]
+    ]
+  },
+  {
+    "word": "o-",
+    "meanings": [
+      [
+        "prefix",
+        "[marks a word as a modifier]"
+      ]
+    ]
+  },
+  {
+    "word": "-a",
+    "meanings": [
+      [
+        "suffix",
+        "[marks a verb as second person]"
+      ]
+    ]
+  },
+  {
+    "word": "-ak",
+    "meanings": [
+      [
+        "suffix",
+        "[marks a noun as plural]"
+      ]
+    ]
+  },
+  {
+    "word": "-ñy",
+    "meanings": [
+      [
+        "suffix",
+        "[negates a word]"
+      ]
+    ]
+  },
+  {
+    "word": "-o",
+    "meanings": [
+      [
+        "suffix",
+        "[marks a verb as third person]"
       ]
     ]
   }
