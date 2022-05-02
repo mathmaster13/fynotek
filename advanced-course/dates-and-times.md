@@ -116,7 +116,7 @@ Similar to how the word *tfaa* means "cycle" and refers to a year in the Fynotek
 Dates are expressed similarly to how the Fynotek calendar expresses them, except for these things:
 - Use *ñytejen* instead of *ñytuh* for months.
 - Use *ejen* instead of *tfaa* for years.
-- Use *kynsimjuw* (old time) for BC/BCE, and *kynsijuon* (new time) for AD/CE.
+- Use *kynsimjuw* (old time) for BC/BCE, and *kynsijuon* (this time) for AD/CE.
 
 Some other things to keep in mind:
 - In Fynotek, Monday is the first day of a Gregorian week, and Sunday is the seventh.
