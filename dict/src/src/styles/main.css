@@ -36,14 +36,12 @@ body {
   color: snow;
   font-size: 20px;
   margin: 0;
-
-  /* TODO make this purple */
   
-  background-color: #12d672;
-  background-image: -webkit-linear-gradient(172deg, #12d672 25%, #9e11d8 75%);
-  background-image: -moz-linear-gradient(172deg, #12d672 25%, #9e11d8 75%);
-  background-image: -o-linear-gradient(172deg, #12d672 25%, #9e11d8 75%);
-  background-image: linear-gradient(172deg, #12d672 25%, #9e11d8 75%);
+  background-color: #1ccc7c;
+  background-image: -webkit-linear-gradient(172deg, #1ccc7c 25%, #7e3dc2 75%);
+  background-image: -moz-linear-gradient(172deg, #1ccc7c 25%, #7e3dc2 75%);
+  background-image: -o-linear-gradient(172deg, #1ccc7c 25%, #7e3dc2 75%);
+  background-image: linear-gradient(172deg, #1ccc7c 25%, #7e3dc2 75%);
 }
 
 #main-wrapper {
