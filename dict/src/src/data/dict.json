@@ -64,6 +64,15 @@
     ]
   },
   {
+    "word": "an",
+    "meanings": [
+      [
+        "interjection",
+        "oh, ah, uh, um, huh, okay, hmm"
+      ]
+    ]
+  },
+  {
     "word": "asai",
     "meanings": [
       [
@@ -1507,6 +1516,10 @@
       [
         "modifier",
         "laughing"
+      ],
+      [
+        "interjection",
+        "[expression of laughter]"
       ]
     ]
   },
@@ -1829,6 +1842,10 @@
       [
         "modifier",
         "often"
+      ],
+      [
+        "particle",
+        "[separates the hour and minute in a time]"
       ]
     ]
   },
@@ -2276,6 +2293,24 @@
     ]
   },
   {
+    "word": "ñet",
+    "meanings": [
+      [
+        "interjection",
+        "goodbye (shortening of \"ñeta\")"
+      ]
+    ]
+  },
+  {
+    "word": "ñeta",
+    "meanings": [
+      [
+        "interjection",
+        "goodbye"
+      ]
+    ]
+  },
+  {
     "word": "ñojera",
     "meanings": [
       [
@@ -2348,6 +2383,10 @@
     "word": "ñy",
     "meanings": [
       [
+        "interjection",
+        "no (in response to a yes/no question)"
+      ],
+      [
         "math",
         "[negates the number after it]"
       ]
@@ -2402,6 +2441,24 @@
       [
         "modifier",
         "philosophical"
+      ]
+    ]
+  },
+  {
+    "word": "oht",
+    "meanings": [
+      [
+        "interjection",
+        "hello (shortening of \"ohto\")"
+      ]
+    ]
+  },
+  {
+    "word": "ohto",
+    "meanings": [
+      [
+        "interjection",
+        "hello"
       ]
     ]
   },
@@ -3135,6 +3192,19 @@
     ]
   },
   {
+    "word": "sta",
+    "meanings": [
+      [
+        "particle",
+        "[marks a sentence as a question]"
+      ],
+      [
+        "interjection",
+        "yes (in response to a yes/no question)"
+      ]
+    ]
+  },
+  {
     "word": "suarn",
     "meanings": [
       [
@@ -3833,6 +3903,15 @@
     ]
   },
   {
+    "word": "-ejen",
+    "meanings": [
+      [
+        "suffix",
+        "[marks a number as a Gregorian year]"
+      ]
+    ]
+  },
+  {
     "word": "-ejiy",
     "meanings": [
       [
@@ -3860,11 +3939,20 @@
     ]
   },
   {
+    "word": "-jeaj",
+    "meanings": [
+      [
+        "suffix",
+        "[marks a number as the day of a week]"
+      ]
+    ]
+  },
+  {
     "word": "-manta",
     "meanings": [
       [
         "suffix",
-        "[multiplies a number by 6<sup>16</sup>]"
+        "[multiplies a number by 6^16]"
       ]
     ]
   },
@@ -3874,6 +3962,24 @@
       [
         "suffix",
         "[negates a word]"
+      ]
+    ]
+  },
+  {
+    "word": "-ñytejen",
+    "meanings": [
+      [
+        "suffix",
+        "[marks a number as the Gregorian month of a Gregorian year]"
+      ]
+    ]
+  },
+  {
+    "word": "-ñytuh",
+    "meanings": [
+      [
+        "suffix",
+        "[marks a number as the Fynotek month of a Fynotek year]"
       ]
     ]
   },
@@ -3909,7 +4015,7 @@
     "meanings": [
       [
         "suffix",
-        "[multiplies a number by 6<sup>4</sup>]"
+        "[multiplies a number by 6^4]"
       ]
     ]
   },
@@ -3918,7 +4024,7 @@
     "meanings": [
       [
         "suffix",
-        "[multiplies a number by 6<sup>2</sup>]"
+        "[multiplies a number by 6^2]"
       ]
     ]
   },
@@ -3928,6 +4034,10 @@
       [
         "suffix",
         "-th (marks a number as ordinal)"
+      ],
+      [
+        "suffix",
+        "[marks a number as the day of a month]"
       ]
     ]
   },
@@ -3936,7 +4046,7 @@
     "meanings": [
       [
         "suffix",
-        "[multiplies a number by 6<sup>8</sup>]"
+        "[multiplies a number by 6^8]"
       ]
     ]
   },
@@ -3945,7 +4055,16 @@
     "meanings": [
       [
         "suffix",
-        "[multiplies a number by 6<sup>32</sup>]"
+        "[multiplies a number by 6^32]"
+      ]
+    ]
+  },
+  {
+    "word": "-tfaa",
+    "meanings": [
+      [
+        "suffix",
+        "[marks a number as a Fynotek year]"
       ]
     ]
   },
