@@ -135,7 +135,7 @@ Use the same forms to express dates as you would times. Here are some examples:
 ### Abbreviation
 In either calendar system, abbreviations are made by writing the day-of-month, day-of-week, month, and year as numbers (in seximal, of course), in that order, and separated by dots. ***None of these can be omitted!*** For example, the abbreviation for March 15 2020 is *23.7.3.13203*.
 
-Optionally, you can abbreviate the era as well. In the Fynotek calendar, *kynsi fynotekñy* is *KÑ*, and *kynsifynotek* is *KF*. In the Gregorian calendar, *kynsimjuw* is *KM*, and *kynsijoun* is *KJ* (capitalization is optional, as always). These abbreviations go after the date, and can be used even if you wrote the rest of the date out in full. For example, the date *aypo forea ayjeaj usñytuh ustfaa kynsifynotek* can be abbreviated as *12.1.3.3 KF*.
+Optionally, you can abbreviate the era as well. In the Fynotek calendar, *kynsi fynotekñy* is *KÑ*, and *kynsifynotek* is *KF*. In the Gregorian calendar, *kynsimjuw* is *KM*, and *kynsijuon* is *KJ* (capitalization is optional, as always). These abbreviations go after the date, and can be used even if you wrote the rest of the date out in full. For example, the date *aypo forea ayjeaj usñytuh ustfaa kynsifynotek* can be abbreviated as *12.1.3.3 KF*.
 
 If you do not specify the era in a date abbreviation (which specifies the calendar system already), you can optionally specify what calendar system you are using by placing the word *tfaa* after a Fynotek date, or the word *ejen* after a Gregorian date. However, when reading these dates, do not pronounce the *tfaa* or *ejen* after the date, since the other words spoken in the date will already determine what calendar system is being used!
 
