@@ -47,3 +47,37 @@ a:visited {
         font-weight: normal;
         font-style: normal;
 }
+
+#enter-word {
+  width: 25%;
+  height: 100%;
+  background-color: transparent;
+  border-style: none;
+  border-bottom: thin solid snow;
+  color: snow;
+  text-align: center;
+  font-size: 20px;
+}
+#enter-word:focus {
+  outline: none;
+}
+#enter-word::placeholder {
+  color: snow;
+  opacity: 0.5;
+}
+#enter-word::-webkit-input-placeholder {
+  color: snow;
+  opacity: 0.5;
+}
+#enter-word::-moz-placeholder {
+  color: snow;
+  opacity: 0.5;
+}
+#enter-word:-ms-input-placeholder {
+  color: snow;
+  opacity: 0.5;
+}
+#enter-word:-moz-placeholder {
+  color: snow;
+  opacity: 0.5;
+}
