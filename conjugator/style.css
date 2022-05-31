@@ -1,0 +1,49 @@
+/* A modification of https://aspenlangs.neocities.org/style.css */
+body {
+    background-color: black;
+    color: #11d871;
+    font-family: 'Lato', sans-serif;
+}
+
+h1 {
+    font-family: 'Lato', sans-serif;
+    text-align: center;
+    color: #9e11d8;
+}
+
+h2 {
+    text-align: center;
+    color: #9e11d8;
+}
+
+body {
+    text-align: center;
+    margin-right: 10vw;
+    margin-left: 10vw;
+}
+
+a {
+    color: #9e11d8;
+}
+
+a:visited {
+    color: #9e11d8;
+ }
+
+
+.main {
+    padding: 0px 10px;
+}
+
+
+
+  @font-face {
+        font-family: "Lato";
+        src: url('698242188-Lato-Bla.eot');
+        src: url('698242188-Lato-Bla.eot?#iefix') format('embedded-opentype'),
+        url('698242188-Lato-Bla.svg#Lato Black') format('svg'),
+        url('698242188-Lato-Bla.woff') format('woff'),
+        url('698242188-Lato-Bla.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+}
