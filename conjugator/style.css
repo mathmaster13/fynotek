@@ -5,6 +5,12 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
+@media screen and (max-width: 550px) {
+  body {
+    width: 95vw;
+  }
+}
+
 h1 {
     font-family: 'Lato', sans-serif;
     text-align: center;
@@ -83,5 +89,6 @@ a:visited {
 }
 
 #checkbox-label {
-    color: #9e11d8
+    color: #9e11d8;
+    font-size: medium
 }
