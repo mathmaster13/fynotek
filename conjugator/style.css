@@ -37,15 +37,15 @@ a:visited {
 
 
 
-  @font-face {
-        font-family: "Lato";
-        src: url('698242188-Lato-Bla.eot');
-        src: url('698242188-Lato-Bla.eot?#iefix') format('embedded-opentype'),
-        url('698242188-Lato-Bla.svg#Lato Black') format('svg'),
-        url('698242188-Lato-Bla.woff') format('woff'),
-        url('698242188-Lato-Bla.ttf') format('truetype');
-        font-weight: normal;
-        font-style: normal;
+@font-face {
+    font-family: "Lato";
+    src: url('698242188-Lato-Bla.eot');
+    src: url('698242188-Lato-Bla.eot?#iefix') format('embedded-opentype'),
+    url('698242188-Lato-Bla.svg#Lato Black') format('svg'),
+    url('698242188-Lato-Bla.woff') format('woff'),
+    url('698242188-Lato-Bla.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
 }
 
 #enter-word {
@@ -54,7 +54,7 @@ a:visited {
   background-color: transparent;
   border-style: none;
   border-bottom: thin solid snow;
-  color: snow;
+  color: #11d871;
   text-align: center;
   font-size: 20px;
 }
@@ -80,4 +80,8 @@ a:visited {
 #enter-word:-moz-placeholder {
   color: snow;
   opacity: 0.5;
+}
+
+#checkbox-label {
+    color: #9e11d8
 }
