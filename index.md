@@ -5,8 +5,9 @@ title: Fynotek
 ## Welcome!
 If you came here, you're probably either looking for one of my projects for Fynotek, or for info about Fynotek in general. For general things, please see Fynotek's [official website](https://aspenlangs.neocities.org/fyn.html). For my projects, see below:
 
+### [Online Fynotek Conjugator](conjugator)
 
-### [fynotek-java](https://github.com/mathmaster13/fynotek-java) (Java library)
+### [fynotek-java](https://github.com/mathmaster13/fynotek-java) (grammar library)
 - [Download](https://github.com/mathmaster13/fynotek-java/releases/latest)
 - [Javadoc](https://mathmaster13.github.io/fynotek-java/javadoc/overview-tree.html)
 - [Simple Conjugator](https://mathmaster13.github.io/fynotek-java/conjugator)
